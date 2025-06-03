@@ -1,0 +1,1001 @@
+Order ID,Customer Name,Country,Order Date,Product,Category,Quantity,Price,Total Price,Payment Method
+10000,Michelle Murphy,Japan,07-12-2024,Coffee Mug,Kitchen,3,466.78,1400.34,PayPal
+10001,Sarah Williams,Russia,21-01-2025,Pen Set,Stationery,3,452.55,1357.65,Credit Card
+10002,Kara Lucas,UK,02-09-2024,Leather Wallet,Accessories,2,239.79,479.58,PayPal
+10003,Amanda Whitaker,Germany,17-01-2025,Running Shoes,Apparel,2,194.49,388.98,Debit Card
+10004,Natasha Schultz,Brazil,22-08-2024,Notebook,Stationery,4,349.09,1396.36,PayPal
+10005,Kaitlyn Hale,USA,23-06-2024,Desk Organizer,Stationery,1,8.17,8.17,PayPal
+10006,Christie Haynes,Japan,06-02-2025,Tablet,Electronics,3,120.54,361.62,Credit Card
+10007,Brian Rodriguez,Australia,17-10-2024,Notebook,Stationery,5,190.73,953.65,UPI
+10008,Joshua Moore,Australia,08-01-2025,Jacket,Apparel,3,414.47,1243.41,PayPal
+10009,Keith Wade,Brazil,16-11-2024,Cotton T-Shirt,Apparel,4,152.42,609.68,PayPal
+10010,Heather Stevens,Japan,29-06-2024,Backpack,Accessories,2,413.31,826.62,Credit Card
+10011,Jared Ross,Russia,10-01-2025,Coffee Mug,Kitchen,5,247.92,1239.6,Credit Card
+10012,Richard Swanson,Japan,31-08-2024,Wireless Mouse,Electronics,5,373.02,1865.1,UPI
+10013,Robert Martinez,South Korea,23-07-2024,Wireless Mouse,Electronics,2,213.87,427.74,Debit Card
+10014,Larry Cruz,India,09-08-2024,Wireless Mouse,Electronics,3,115.23,345.69,Credit Card
+10015,Christina Cole,Brazil,04-03-2025,Wireless Mouse,Electronics,1,80.55,80.55,Credit Card
+10016,Cynthia Scott,India,12-12-2024,Desk Organizer,Stationery,1,284.56,284.56,Debit Card
+10017,Joseph Webb,Brazil,07-01-2025,Pen Set,Stationery,5,250.53,1252.65,UPI
+10018,Michelle Lin,India,21-05-2025,Wireless Mouse,Electronics,3,451.21,1353.63,PayPal
+10019,Leah Haas,Canada,19-11-2024,Watch,Accessories,3,93.01,279.03,PayPal
+10020,Jorge Smith,Australia,27-02-2025,Backpack,Accessories,4,35.56,142.24,Debit Card
+10021,Ronald Campbell,Russia,09-09-2024,Watch,Accessories,4,283.17,1132.68,UPI
+10022,Sandra Donaldson,USA,15-07-2024,Knife Set,Kitchen,3,296.62,889.86,UPI
+10023,Randall Bates,Canada,18-06-2024,Bluetooth Headphones,Electronics,3,273.06,819.18,Credit Card
+10024,Sarah Guerra,UK,22-04-2025,Notebook,Stationery,5,90.29,451.45,PayPal
+10025,Dana Figueroa,Japan,24-04-2025,Notebook,Stationery,1,321.97,321.97,Debit Card
+10026,Jeremy Conner,Australia,06-05-2025,Smartphone,Electronics,3,347.16,1041.48,Credit Card
+10027,Amanda Schultz,USA,15-08-2024,Coffee Mug,Kitchen,2,282.29,564.58,Debit Card
+10028,Hunter Johnson,Australia,03-01-2025,Smartphone,Electronics,1,86.5,86.5,PayPal
+10029,David Anderson,Brazil,17-01-2025,Smartphone,Electronics,5,178.2,891,PayPal
+10030,Justin Stevens,Brazil,04-02-2025,Pen Set,Stationery,5,221.1,1105.5,Credit Card
+10031,Donna Stewart,Germany,11-03-2025,Jacket,Apparel,2,48.25,96.5,Credit Card
+10032,James Solis,Australia,29-07-2024,Bluetooth Headphones,Electronics,5,111.26,556.3,Debit Card
+10033,Kristina Williams,USA,19-01-2025,Cookware Set,Kitchen,3,231.57,694.71,UPI
+10034,Michael Shaw,India,02-03-2025,Cookware Set,Kitchen,2,159.58,319.16,UPI
+10035,Dr. Kenneth Clarke,Brazil,25-07-2024,Knife Set,Kitchen,3,72.29,216.87,Credit Card
+10036,Lisa Nichols,Germany,09-07-2024,Cookware Set,Kitchen,3,480.99,1442.97,UPI
+10037,Kimberly Matthews,Japan,25-02-2025,Notebook,Stationery,5,392.67,1963.35,Credit Card
+10038,Debbie Mitchell,Brazil,05-01-2025,Backpack,Accessories,3,391.05,1173.15,UPI
+10039,Pedro Higgins,India,13-10-2024,Tablet,Electronics,3,144.87,434.61,Credit Card
+10040,Jacqueline Johnson,Canada,07-03-2025,Smartphone,Electronics,2,209.71,419.42,Credit Card
+10041,Kenneth Smith,Australia,20-12-2024,Coffee Mug,Kitchen,1,368.25,368.25,PayPal
+10042,Bailey Brown,Russia,07-04-2025,Socks,Apparel,5,462.76,2313.8,Debit Card
+10043,Rodney Drake,South Korea,28-01-2025,Desk Organizer,Stationery,5,351.51,1757.55,UPI
+10044,Caitlyn Hernandez,Brazil,13-02-2025,Marker Pack,Stationery,1,11.72,11.72,UPI
+10045,Cory Trujillo,Russia,05-12-2024,Sunglasses,Accessories,4,218.86,875.44,PayPal
+10046,Amanda Murray,Australia,08-09-2024,Knife Set,Kitchen,1,423.57,423.57,PayPal
+10047,Ashley Sims,UK,04-12-2024,Blender,Kitchen,2,239.24,478.48,Credit Card
+10048,Carol Moore,India,06-11-2024,Coffee Mug,Kitchen,4,214.89,859.56,PayPal
+10049,Peter Cardenas,USA,13-01-2025,Socks,Apparel,5,62.44,312.2,Credit Card
+10050,Matthew Woods,USA,20-10-2024,Cookware Set,Kitchen,3,354.02,1062.06,PayPal
+10051,Stephanie Carrillo,Australia,11-09-2024,Leather Wallet,Accessories,1,97.62,97.62,PayPal
+10052,Caitlin Hahn,Australia,10-06-2024,Wireless Mouse,Electronics,4,324.3,1297.2,UPI
+10053,Jack Wilson,UK,05-09-2024,Running Shoes,Apparel,5,164.28,821.4,Debit Card
+10054,Cynthia Young,Russia,09-06-2024,Coffee Mug,Kitchen,3,212.1,636.3,Credit Card
+10055,Vanessa Williams,UK,22-12-2024,Tablet,Electronics,3,380.54,1141.62,Credit Card
+10056,Denise Morgan,Australia,29-06-2024,Cookware Set,Kitchen,2,91.89,183.78,Credit Card
+10057,Brian Gardner,Australia,24-01-2025,Running Shoes,Apparel,2,336.86,673.72,Credit Card
+10058,Robert Jones,Brazil,13-11-2024,Coffee Mug,Kitchen,5,15.32,76.6,UPI
+10059,Kimberly Beck,Australia,06-04-2025,Blender,Kitchen,1,59.42,59.42,UPI
+10060,Marc Kim,Germany,08-10-2024,Notebook,Stationery,1,77.86,77.86,Debit Card
+10061,Mrs. Laura Patterson,Australia,03-05-2025,Wireless Mouse,Electronics,1,184.83,184.83,PayPal
+10062,Emily Johnson,South Korea,20-05-2025,Watch,Accessories,3,33.72,101.16,PayPal
+10063,Carlos Nguyen,UK,13-07-2024,Desk Organizer,Stationery,4,18.42,73.68,PayPal
+10064,Martin Weaver,UK,01-04-2025,Wireless Mouse,Electronics,2,469.13,938.26,PayPal
+10065,Benjamin Jones,Australia,09-12-2024,Notebook,Stationery,3,406.62,1219.86,PayPal
+10066,Richard Castro,India,27-04-2025,Smartphone,Electronics,3,397.47,1192.41,UPI
+10067,Shelley Martinez,Canada,09-05-2025,Watch,Accessories,3,449.04,1347.12,PayPal
+10068,Michelle Swanson,UK,26-01-2025,Wireless Mouse,Electronics,4,134.52,538.08,UPI
+10069,Jeffery Aguilar,UK,24-01-2025,Watch,Accessories,3,214.13,642.39,UPI
+10070,Gregg Mata,Russia,05-07-2024,Sunglasses,Accessories,2,278.26,556.52,UPI
+10071,Larry Jones,South Korea,29-08-2024,Pen Set,Stationery,1,181.39,181.39,PayPal
+10072,Grace Williams,Russia,29-05-2025,Cookware Set,Kitchen,3,405.55,1216.65,UPI
+10073,Jonathan Harrington,Russia,22-11-2024,Knife Set,Kitchen,1,211.17,211.17,Debit Card
+10074,Holly Navarro DDS,Canada,22-05-2025,Knife Set,Kitchen,1,50.54,50.54,PayPal
+10075,Amy Phillips,India,02-06-2025,Knife Set,Kitchen,1,463.1,463.1,UPI
+10076,Cathy Tucker,USA,25-01-2025,Backpack,Accessories,2,30.05,60.1,PayPal
+10077,Tracy Steele,Australia,14-04-2025,Socks,Apparel,5,8.06,40.3,Credit Card
+10078,Nicole Carter,Japan,28-06-2024,Pen Set,Stationery,4,377.29,1509.16,UPI
+10079,Michael Conley,India,02-09-2024,Socks,Apparel,1,353.16,353.16,Credit Card
+10080,Daniel Davis,India,21-09-2024,Cookware Set,Kitchen,1,349.92,349.92,PayPal
+10081,Nancy Hess,UK,09-05-2025,Tablet,Electronics,2,137.68,275.36,Credit Card
+10082,Courtney Avila,Japan,16-02-2025,Jacket,Apparel,4,366.1,1464.4,UPI
+10083,Jennifer Thomas,UK,07-07-2024,Wireless Mouse,Electronics,3,242.51,727.53,Credit Card
+10084,Robert Smith,Russia,05-05-2025,Smartphone,Electronics,3,392.07,1176.21,UPI
+10085,Daniel Roberts,USA,18-08-2024,Knife Set,Kitchen,1,447.27,447.27,Debit Card
+10086,Erik Ruiz,UK,19-05-2025,Blender,Kitchen,1,302.22,302.22,Credit Card
+10087,Cody Frazier,Australia,10-04-2025,Knife Set,Kitchen,5,305.59,1527.95,PayPal
+10088,Lori Stanton,UK,27-10-2024,Tablet,Electronics,5,457.49,2287.45,Debit Card
+10089,Jacqueline Charles,Brazil,21-09-2024,Cotton T-Shirt,Apparel,1,318.35,318.35,UPI
+10090,Patrick Alvarez,UK,05-05-2025,Marker Pack,Stationery,1,323.62,323.62,Credit Card
+10091,Chelsea Henry,USA,01-11-2024,Marker Pack,Stationery,1,26.14,26.14,PayPal
+10092,Joseph Jackson,Brazil,14-10-2024,Leather Wallet,Accessories,3,255.92,767.76,PayPal
+10093,Courtney Hendricks,Russia,03-07-2024,Wireless Mouse,Electronics,3,273.38,820.14,Debit Card
+10094,Autumn Sandoval,UK,02-02-2025,Marker Pack,Stationery,1,131.91,131.91,PayPal
+10095,Dustin Brown,UK,06-02-2025,Pen Set,Stationery,5,177.63,888.15,PayPal
+10096,Dr. Tyler Schneider DDS,Germany,27-02-2025,Jacket,Apparel,5,373.66,1868.3,UPI
+10097,Kevin Richardson,Germany,08-05-2025,Knife Set,Kitchen,1,263.18,263.18,PayPal
+10098,Kelsey Cherry,UK,25-02-2025,Desk Organizer,Stationery,4,276.99,1107.96,Debit Card
+10099,Darrell Young,Japan,19-08-2024,Backpack,Accessories,4,60.57,242.28,Debit Card
+10100,Robert Arnold,Germany,06-09-2024,Leather Wallet,Accessories,1,329.22,329.22,PayPal
+10101,Zachary Williams,USA,25-10-2024,Coffee Mug,Kitchen,5,357.25,1786.25,PayPal
+10102,Julie Walton,Russia,27-10-2024,Smartphone,Electronics,3,193.19,579.57,UPI
+10103,Larry Brooks,Canada,04-09-2024,Smartphone,Electronics,4,324.55,1298.2,UPI
+10104,Brittany Huang,Australia,09-12-2024,Pen Set,Stationery,5,238.17,1190.85,PayPal
+10105,Valerie Jordan,USA,11-11-2024,Knife Set,Kitchen,2,135.55,271.1,UPI
+10106,Ronald Smith,South Korea,25-06-2024,Marker Pack,Stationery,2,358.04,716.08,UPI
+10107,Michael Stephens,Brazil,17-01-2025,Sunglasses,Accessories,5,304.49,1522.45,Credit Card
+10108,Christina Jones,India,04-02-2025,Watch,Accessories,3,197.28,591.84,Credit Card
+10109,Tammy Moore,Japan,25-02-2025,Coffee Mug,Kitchen,1,345.5,345.5,UPI
+10110,Michael Wright,Canada,08-09-2024,Socks,Apparel,2,273.34,546.68,PayPal
+10111,Miguel Johnson,UK,14-05-2025,Backpack,Accessories,3,25.63,76.89,Debit Card
+10112,James Proctor,UK,17-02-2025,Running Shoes,Apparel,1,238.25,238.25,PayPal
+10113,Sarah Chang,Australia,25-08-2024,Marker Pack,Stationery,3,393.16,1179.48,PayPal
+10114,Kathleen Boyd,Canada,16-10-2024,Marker Pack,Stationery,2,355.31,710.62,PayPal
+10115,Eric Stewart,South Korea,09-08-2024,Pen Set,Stationery,2,123.98,247.96,Credit Card
+10116,Pamela Rodriguez,Germany,22-11-2024,Socks,Apparel,4,63.19,252.76,Credit Card
+10117,Adam Vasquez,Japan,22-11-2024,Wireless Mouse,Electronics,4,60.19,240.76,Credit Card
+10118,Christopher Brown,USA,28-06-2024,Desk Organizer,Stationery,3,105.96,317.88,Credit Card
+10119,Katherine Fowler,South Korea,20-02-2025,Backpack,Accessories,5,223.15,1115.75,Credit Card
+10120,Eric Grant,USA,21-08-2024,Marker Pack,Stationery,5,325.58,1627.9,PayPal
+10121,David Harding,Brazil,25-06-2024,Desk Organizer,Stationery,3,305.24,915.72,UPI
+10122,Joseph Hall,Japan,26-10-2024,Cookware Set,Kitchen,4,486.93,1947.72,PayPal
+10123,Dr. Bradley Watson Jr.,South Korea,18-12-2024,Watch,Accessories,2,138.94,277.88,Credit Card
+10124,Julia Lane,South Korea,03-10-2024,Cookware Set,Kitchen,5,146.3,731.5,Credit Card
+10125,Austin Hawkins,Japan,14-01-2025,Backpack,Accessories,4,279.31,1117.24,PayPal
+10126,Andrea Collins,Canada,10-09-2024,Running Shoes,Apparel,4,138.92,555.68,UPI
+10127,Donald Hoffman,Russia,07-06-2024,Notebook,Stationery,3,498.1,1494.3,PayPal
+10128,Hannah Marshall,Brazil,24-01-2025,Coffee Mug,Kitchen,2,16.5,33,Debit Card
+10129,Joseph Hall,Australia,31-12-2024,Wireless Mouse,Electronics,1,35.72,35.72,UPI
+10130,Mark Tran MD,Australia,15-12-2024,Blender,Kitchen,5,430.77,2153.85,Debit Card
+10131,Breanna Williams,UK,24-11-2024,Cotton T-Shirt,Apparel,4,240.61,962.44,Credit Card
+10132,Mary Parker,Germany,07-06-2024,Pen Set,Stationery,5,448.04,2240.2,PayPal
+10133,Lauren Banks,South Korea,17-02-2025,Watch,Accessories,4,486.29,1945.16,PayPal
+10134,Christopher Jones,USA,16-01-2025,Coffee Mug,Kitchen,4,358.77,1435.08,Credit Card
+10135,Sarah Jones,Brazil,07-07-2024,Running Shoes,Apparel,5,106.47,532.35,PayPal
+10136,Keith King,Canada,12-08-2024,Blender,Kitchen,3,207.96,623.88,Credit Card
+10137,Linda Kennedy,South Korea,18-02-2025,Blender,Kitchen,3,102.38,307.14,Debit Card
+10138,Victor Brown,Brazil,28-11-2024,Cotton T-Shirt,Apparel,3,141.71,425.13,UPI
+10139,Sean Dunlap,USA,24-06-2024,Smartphone,Electronics,3,418.43,1255.29,PayPal
+10140,Thomas Hammond,South Korea,04-07-2024,Leather Wallet,Accessories,1,234.75,234.75,Debit Card
+10141,Christine Lane,India,16-01-2025,Desk Organizer,Stationery,1,392.11,392.11,UPI
+10142,Rick Bowen,South Korea,21-09-2024,Jacket,Apparel,1,335.74,335.74,PayPal
+10143,Joshua Bruce,UK,23-05-2025,Smartphone,Electronics,5,118.09,590.45,PayPal
+10144,April Donaldson,USA,12-04-2025,Cotton T-Shirt,Apparel,3,45.78,137.34,PayPal
+10145,Margaret Howard,Australia,26-09-2024,Jacket,Apparel,4,301.49,1205.96,Debit Card
+10146,Robin Palmer,Russia,03-12-2024,Knife Set,Kitchen,3,113.56,340.68,Debit Card
+10147,Cynthia Walsh,Russia,10-09-2024,Jacket,Apparel,3,25.19,75.57,PayPal
+10148,Jeremiah Fletcher,Japan,01-11-2024,Smartphone,Electronics,4,188.71,754.84,Credit Card
+10149,Jonathan Glover,Australia,04-08-2024,Coffee Mug,Kitchen,4,444.8,1779.2,Credit Card
+10150,Jessica Carroll,Brazil,23-08-2024,Blender,Kitchen,2,207.49,414.98,Debit Card
+10151,Christopher Simmons,Australia,12-02-2025,Sunglasses,Accessories,3,11.09,33.27,UPI
+10152,Linda Hawkins,USA,08-03-2025,Jacket,Apparel,1,128.04,128.04,Debit Card
+10153,Kayla Edwards,USA,12-06-2024,Backpack,Accessories,3,427.63,1282.89,Debit Card
+10154,Julie Crawford,USA,06-11-2024,Jacket,Apparel,1,350.18,350.18,PayPal
+10155,Kristen Klein,Australia,30-04-2025,Wireless Mouse,Electronics,2,391.2,782.4,UPI
+10156,Ariel Brooks,Russia,18-03-2025,Cookware Set,Kitchen,5,282.78,1413.9,Debit Card
+10157,Rebecca Howe,Australia,13-07-2024,Backpack,Accessories,3,420.87,1262.61,UPI
+10158,Jimmy Stewart,Brazil,11-09-2024,Tablet,Electronics,3,472.04,1416.12,Debit Card
+10159,Shannon Roach,Canada,28-04-2025,Socks,Apparel,5,498.97,2494.85,UPI
+10160,Kimberly King,USA,06-07-2024,Notebook,Stationery,2,374.21,748.42,Debit Card
+10161,Joshua Jackson,USA,26-07-2024,Running Shoes,Apparel,1,372.34,372.34,Credit Card
+10162,Thomas Travis,Japan,18-09-2024,Smartphone,Electronics,1,118.72,118.72,Credit Card
+10163,Leslie Nelson,Brazil,29-04-2025,Pen Set,Stationery,4,20.41,81.64,Credit Card
+10164,David Yates,Canada,26-05-2025,Watch,Accessories,2,143.93,287.86,UPI
+10165,Travis Collins,Australia,29-08-2024,Smartphone,Electronics,4,272.22,1088.88,UPI
+10166,Kristine Peterson,Japan,25-09-2024,Cotton T-Shirt,Apparel,4,312.52,1250.08,UPI
+10167,Amanda Holt,Australia,24-03-2025,Coffee Mug,Kitchen,2,398.03,796.06,Credit Card
+10168,Angel Gomez,Japan,05-08-2024,Pen Set,Stationery,2,113.34,226.68,Credit Card
+10169,Jesus Walton,Germany,26-06-2024,Sunglasses,Accessories,2,495.12,990.24,Debit Card
+10170,Jason Melendez,Japan,05-01-2025,Bluetooth Headphones,Electronics,2,142.66,285.32,Credit Card
+10171,Christine Gordon,USA,14-01-2025,Notebook,Stationery,3,296.89,890.67,PayPal
+10172,Robert Page,India,13-12-2024,Desk Organizer,Stationery,3,234.44,703.32,Debit Card
+10173,Pamela Lewis,Canada,07-08-2024,Desk Organizer,Stationery,3,184.99,554.97,Credit Card
+10174,Justin Lee,Canada,02-01-2025,Knife Set,Kitchen,3,465.99,1397.97,Credit Card
+10175,Rachel Roth,Australia,22-11-2024,Marker Pack,Stationery,1,75.14,75.14,PayPal
+10176,Scott Bullock,Russia,25-08-2024,Blender,Kitchen,3,326.68,980.04,Credit Card
+10177,Sierra Johnson,Brazil,29-07-2024,Knife Set,Kitchen,2,364.46,728.92,PayPal
+10178,Robert Woods,Germany,18-07-2024,Leather Wallet,Accessories,3,491.36,1474.08,UPI
+10179,Lisa Cortez,Germany,16-12-2024,Pen Set,Stationery,2,213.28,426.56,UPI
+10180,Gary Gordon,USA,19-09-2024,Backpack,Accessories,5,77.34,386.7,UPI
+10181,Michelle Moran,South Korea,22-11-2024,Desk Organizer,Stationery,5,417.96,2089.8,Debit Card
+10182,Nicholas Brown,UK,30-01-2025,Wireless Mouse,Electronics,5,247.79,1238.95,UPI
+10183,Daniel Martinez,India,05-06-2024,Cookware Set,Kitchen,1,217.22,217.22,Debit Card
+10184,Bryce Brown,Germany,26-07-2024,Blender,Kitchen,1,217.16,217.16,UPI
+10185,Cynthia Evans,Canada,18-12-2024,Socks,Apparel,1,463.71,463.71,Credit Card
+10186,Matthew Pearson,South Korea,27-07-2024,Tablet,Electronics,2,182,364,Debit Card
+10187,Benjamin Miller,Australia,30-07-2024,Smartphone,Electronics,1,319.63,319.63,UPI
+10188,Danielle Bishop,UK,02-04-2025,Blender,Kitchen,1,119.79,119.79,PayPal
+10189,John Fernandez,Russia,22-07-2024,Desk Organizer,Stationery,2,269.37,538.74,Credit Card
+10190,Lisa Cox,Australia,20-06-2024,Knife Set,Kitchen,3,128.44,385.32,Credit Card
+10191,George Miles,Russia,06-08-2024,Bluetooth Headphones,Electronics,1,467.63,467.63,Credit Card
+10192,Jeremy Dixon,UK,11-04-2025,Knife Set,Kitchen,2,450.99,901.98,PayPal
+10193,Dennis Payne,Russia,11-05-2025,Leather Wallet,Accessories,5,488.56,2442.8,Credit Card
+10194,Jon Ho,UK,11-12-2024,Smartphone,Electronics,5,497.13,2485.65,UPI
+10195,Suzanne Stone,India,06-09-2024,Jacket,Apparel,5,291.42,1457.1,Credit Card
+10196,Lisa Adams,Germany,27-03-2025,Leather Wallet,Accessories,2,20.59,41.18,Debit Card
+10197,Edward Moreno,Brazil,29-03-2025,Leather Wallet,Accessories,3,246.62,739.86,PayPal
+10198,Alexander Williams,Russia,06-10-2024,Jacket,Apparel,5,67.9,339.5,Debit Card
+10199,Allison Gregory,USA,17-04-2025,Desk Organizer,Stationery,1,460.64,460.64,UPI
+10200,Joel Hayes,Australia,24-02-2025,Backpack,Accessories,5,89.98,449.9,Credit Card
+10201,Andrew Gallegos DDS,Brazil,27-07-2024,Tablet,Electronics,3,383.86,1151.58,Credit Card
+10202,Michael Fox,Australia,26-06-2024,Tablet,Electronics,1,131.95,131.95,Credit Card
+10203,Thomas Graham,India,02-06-2025,Blender,Kitchen,3,33.56,100.68,PayPal
+10204,Antonio Carson,Japan,02-07-2024,Smartphone,Electronics,5,498.61,2493.05,Debit Card
+10205,Timothy Payne,Brazil,05-07-2024,Bluetooth Headphones,Electronics,5,449.53,2247.65,Credit Card
+10206,Colleen Cook,India,31-05-2025,Cookware Set,Kitchen,1,6.5,6.5,PayPal
+10207,David Hernandez,Japan,22-08-2024,Pen Set,Stationery,4,493.32,1973.28,Credit Card
+10208,Cassandra Weaver,Japan,03-09-2024,Watch,Accessories,3,491.1,1473.3,PayPal
+10209,Laura Morales,USA,30-08-2024,Blender,Kitchen,4,326.69,1306.76,Credit Card
+10210,Anthony Mendoza,India,10-08-2024,Sunglasses,Accessories,2,197.85,395.7,Credit Card
+10211,Anthony Lee,South Korea,04-10-2024,Jacket,Apparel,4,180.2,720.8,Credit Card
+10212,Casey Smith,Brazil,19-06-2024,Wireless Mouse,Electronics,2,334.69,669.38,Debit Card
+10213,Adam Todd,USA,08-05-2025,Tablet,Electronics,1,213.63,213.63,Debit Card
+10214,Kimberly Valdez,USA,13-06-2024,Notebook,Stationery,4,74.84,299.36,PayPal
+10215,Stephen Whitehead,South Korea,05-08-2024,Tablet,Electronics,3,222.5,667.5,UPI
+10216,Valerie Johnson,Russia,18-04-2025,Socks,Apparel,1,483.92,483.92,Credit Card
+10217,Kelly Rodriguez,Brazil,24-09-2024,Backpack,Accessories,3,429.41,1288.23,Debit Card
+10218,Kimberly Vance,Canada,06-07-2024,Cookware Set,Kitchen,1,178.19,178.19,PayPal
+10219,Javier Howard,South Korea,20-02-2025,Tablet,Electronics,2,416.49,832.98,Debit Card
+10220,Samuel Barnett,Brazil,13-09-2024,Notebook,Stationery,5,41.24,206.2,Debit Card
+10221,Brandon Walls,Canada,03-03-2025,Marker Pack,Stationery,1,95.24,95.24,Debit Card
+10222,Maria Moreno,Canada,06-12-2024,Blender,Kitchen,3,10.54,31.62,UPI
+10223,Samantha Brooks,South Korea,17-10-2024,Desk Organizer,Stationery,4,308.2,1232.8,UPI
+10224,Kimberly Osborne,India,16-04-2025,Knife Set,Kitchen,3,376.13,1128.39,Credit Card
+10225,Mark Waters,Australia,29-06-2024,Bluetooth Headphones,Electronics,1,52.04,52.04,Debit Card
+10226,Mark Williams,Australia,11-05-2025,Running Shoes,Apparel,5,75.77,378.85,Debit Card
+10227,Dylan Compton,India,19-11-2024,Wireless Mouse,Electronics,5,329.77,1648.85,PayPal
+10228,Summer Coleman,Australia,14-11-2024,Coffee Mug,Kitchen,3,107.03,321.09,Debit Card
+10229,Tracy Davis,Brazil,26-05-2025,Coffee Mug,Kitchen,2,347.75,695.5,Debit Card
+10230,Rebecca Shaw,Japan,13-12-2024,Tablet,Electronics,5,426.81,2134.05,UPI
+10231,Mrs. Brianna Golden,Germany,05-11-2024,Cotton T-Shirt,Apparel,5,236.07,1180.35,UPI
+10232,Victoria Gutierrez,India,10-05-2025,Cotton T-Shirt,Apparel,2,273.07,546.14,UPI
+10233,Christina Reilly,Russia,23-10-2024,Sunglasses,Accessories,3,440.12,1320.36,UPI
+10234,Christopher Burke,Russia,10-05-2025,Sunglasses,Accessories,1,9.81,9.81,Debit Card
+10235,Caitlyn Clay,USA,14-01-2025,Pen Set,Stationery,2,426.51,853.02,PayPal
+10236,Nicole Powers,Brazil,06-11-2024,Cotton T-Shirt,Apparel,3,113.32,339.96,Debit Card
+10237,Michelle Murphy,India,18-02-2025,Smartphone,Electronics,1,67.77,67.77,UPI
+10238,Kevin Williamson,Brazil,21-05-2025,Knife Set,Kitchen,5,445.82,2229.1,PayPal
+10239,Cesar Mcgee,Russia,19-08-2024,Running Shoes,Apparel,5,144.37,721.85,UPI
+10240,Holly Larson,India,11-10-2024,Cotton T-Shirt,Apparel,2,113.49,226.98,Debit Card
+10241,Brandi Oconnell,Germany,12-10-2024,Leather Wallet,Accessories,3,432.72,1298.16,UPI
+10242,Bryan Hendrix,Japan,01-04-2025,Coffee Mug,Kitchen,4,58.56,234.24,Debit Card
+10243,Katherine Bird,Australia,20-10-2024,Marker Pack,Stationery,1,451.94,451.94,PayPal
+10244,Kathleen Mcintyre,Brazil,04-06-2024,Pen Set,Stationery,4,57.99,231.96,Debit Card
+10245,Elizabeth Rogers,Australia,03-12-2024,Sunglasses,Accessories,5,457.55,2287.75,Debit Card
+10246,Patrick Moore,South Korea,01-04-2025,Cookware Set,Kitchen,4,373.48,1493.92,Debit Card
+10247,Elizabeth Wilcox,Australia,01-07-2024,Tablet,Electronics,4,155.8,623.2,Debit Card
+10248,Jeremiah Ortiz,Australia,16-08-2024,Running Shoes,Apparel,2,155.98,311.96,Credit Card
+10249,Jennifer Smith,USA,19-01-2025,Bluetooth Headphones,Electronics,2,225.69,451.38,PayPal
+10250,Megan Sullivan,Japan,05-04-2025,Sunglasses,Accessories,2,327.94,655.88,Debit Card
+10251,Paul Washington,South Korea,07-10-2024,Socks,Apparel,1,73.87,73.87,Credit Card
+10252,Caroline Johnson,UK,04-07-2024,Smartphone,Electronics,1,155.9,155.9,Credit Card
+10253,Kathryn Clayton,Germany,11-03-2025,Sunglasses,Accessories,2,262.3,524.6,PayPal
+10254,Elizabeth Ewing,India,19-07-2024,Cookware Set,Kitchen,3,294.09,882.27,UPI
+10255,Connie Price DVM,UK,18-02-2025,Marker Pack,Stationery,3,122.39,367.17,UPI
+10256,Trevor Anderson,Australia,09-09-2024,Tablet,Electronics,3,378.44,1135.32,Debit Card
+10257,Elizabeth Evans,India,26-02-2025,Backpack,Accessories,1,322.87,322.87,UPI
+10258,Megan Jones,Germany,08-11-2024,Coffee Mug,Kitchen,2,52.47,104.94,Credit Card
+10259,Philip Wong,UK,25-07-2024,Bluetooth Headphones,Electronics,3,277.7,833.1,Credit Card
+10260,Erica Terry,Russia,25-08-2024,Desk Organizer,Stationery,4,133.35,533.4,Debit Card
+10261,Jeremy Carson,UK,25-06-2024,Backpack,Accessories,5,211.61,1058.05,PayPal
+10262,Andrew Wood,USA,15-03-2025,Marker Pack,Stationery,3,51.18,153.54,PayPal
+10263,Whitney Chapman,South Korea,27-12-2024,Jacket,Apparel,5,184.01,920.05,Credit Card
+10264,Dr. Connie Williams,Canada,22-07-2024,Tablet,Electronics,2,45.96,91.92,UPI
+10265,Jeremiah Miller,Germany,03-03-2025,Jacket,Apparel,1,212.47,212.47,Credit Card
+10266,Teresa Webb,Japan,24-05-2025,Blender,Kitchen,4,161.38,645.52,Debit Card
+10267,Victor Dixon Jr.,Russia,16-06-2024,Sunglasses,Accessories,2,186.6,373.2,Debit Card
+10268,Christine Allen,India,14-11-2024,Leather Wallet,Accessories,4,434.36,1737.44,Credit Card
+10269,Joseph Patterson,India,16-04-2025,Leather Wallet,Accessories,4,249.91,999.64,PayPal
+10270,Sierra Ferguson,Germany,14-05-2025,Knife Set,Kitchen,4,245.85,983.4,Credit Card
+10271,Lisa Bradford,India,24-01-2025,Sunglasses,Accessories,3,333.62,1000.86,PayPal
+10272,Katherine Vance,Germany,25-12-2024,Bluetooth Headphones,Electronics,4,437.4,1749.6,Credit Card
+10273,Kristin Jones,Brazil,08-11-2024,Socks,Apparel,3,240.16,720.48,PayPal
+10274,Lynn Myers,Russia,24-10-2024,Leather Wallet,Accessories,1,29.15,29.15,Credit Card
+10275,James Vasquez,USA,06-07-2024,Knife Set,Kitchen,2,380.23,760.46,PayPal
+10276,Natasha Jacobs,Brazil,13-11-2024,Notebook,Stationery,1,402.59,402.59,Credit Card
+10277,Alicia Michael,USA,02-05-2025,Cotton T-Shirt,Apparel,3,315.94,947.82,Debit Card
+10278,Dawn Wells,Canada,28-12-2024,Tablet,Electronics,2,408.27,816.54,Credit Card
+10279,David Jackson,India,16-07-2024,Watch,Accessories,5,449.12,2245.6,UPI
+10280,Lindsay Rice,India,12-09-2024,Cotton T-Shirt,Apparel,1,125.1,125.1,UPI
+10281,Thomas Decker,Russia,25-02-2025,Coffee Mug,Kitchen,5,347.85,1739.25,PayPal
+10282,Stacey Fox,Canada,24-02-2025,Backpack,Accessories,4,79.86,319.44,PayPal
+10283,Sophia Brown,Brazil,11-12-2024,Knife Set,Kitchen,1,448.18,448.18,UPI
+10284,Cody White,Japan,22-02-2025,Sunglasses,Accessories,5,36.87,184.35,PayPal
+10285,Amy Wilson,USA,29-11-2024,Leather Wallet,Accessories,3,411.4,1234.2,UPI
+10286,Stephanie Bryant,Brazil,10-03-2025,Bluetooth Headphones,Electronics,2,267.45,534.9,UPI
+10287,Peter Skinner,South Korea,01-02-2025,Jacket,Apparel,2,311.46,622.92,Debit Card
+10288,Russell Stuart,UK,03-02-2025,Desk Organizer,Stationery,4,185.42,741.68,PayPal
+10289,Erin Aguilar,Canada,02-04-2025,Wireless Mouse,Electronics,2,37.34,74.68,Debit Card
+10290,Kurt Skinner MD,USA,07-06-2024,Backpack,Accessories,5,83.43,417.15,Debit Card
+10291,Ruth Jackson,Japan,26-08-2024,Leather Wallet,Accessories,4,249.09,996.36,UPI
+10292,Dana Nelson,Germany,07-02-2025,Jacket,Apparel,4,184.68,738.72,PayPal
+10293,Jane Welch,Canada,19-12-2024,Leather Wallet,Accessories,5,152.06,760.3,UPI
+10294,Nicole Johns,Australia,23-01-2025,Notebook,Stationery,4,133.7,534.8,Debit Card
+10295,Brenda Bowers,Brazil,14-03-2025,Pen Set,Stationery,1,375.54,375.54,PayPal
+10296,George Greene,Brazil,14-03-2025,Leather Wallet,Accessories,4,118.06,472.24,PayPal
+10297,Nicholas Brady,India,20-11-2024,Smartphone,Electronics,3,38.21,114.63,Credit Card
+10298,Brian Watkins,Canada,27-10-2024,Running Shoes,Apparel,3,12.5,37.5,Credit Card
+10299,Sarah Keller,South Korea,17-02-2025,Watch,Accessories,4,364.54,1458.16,UPI
+10300,Kimberly Smith,USA,30-05-2025,Watch,Accessories,1,5.65,5.65,Credit Card
+10301,Laura Walker,South Korea,12-12-2024,Knife Set,Kitchen,4,100.52,402.08,UPI
+10302,Adrian Wolfe,India,22-08-2024,Jacket,Apparel,5,471.95,2359.75,PayPal
+10303,Tiffany Hall,South Korea,25-11-2024,Blender,Kitchen,1,277.61,277.61,PayPal
+10304,Christopher Mcdonald,South Korea,28-08-2024,Blender,Kitchen,4,110.23,440.92,Debit Card
+10305,Justin Cooke,Japan,11-11-2024,Leather Wallet,Accessories,5,292.08,1460.4,Credit Card
+10306,Adam Wong,Germany,24-02-2025,Leather Wallet,Accessories,4,5.24,20.96,Debit Card
+10307,Mrs. Bailey Hayes,Brazil,04-03-2025,Notebook,Stationery,2,279.25,558.5,UPI
+10308,Daniel Anderson,Russia,28-10-2024,Socks,Apparel,5,312.62,1563.1,Debit Card
+10309,Jordan Cooper,Japan,09-11-2024,Jacket,Apparel,5,229.61,1148.05,UPI
+10310,Amy Warner,Japan,04-05-2025,Smartphone,Electronics,5,20.54,102.7,UPI
+10311,Curtis Brown,South Korea,03-06-2024,Backpack,Accessories,3,362.74,1088.22,Debit Card
+10312,Jacob Shepherd,UK,17-03-2025,Watch,Accessories,3,14.79,44.37,PayPal
+10313,Mary Pollard,India,05-09-2024,Leather Wallet,Accessories,1,196.79,196.79,Debit Card
+10314,Ashley Coleman,India,20-03-2025,Running Shoes,Apparel,1,322.81,322.81,Debit Card
+10315,Larry Spears,South Korea,25-09-2024,Socks,Apparel,4,235.11,940.44,UPI
+10316,Ronald Guerrero,South Korea,17-12-2024,Wireless Mouse,Electronics,5,192.06,960.3,Credit Card
+10317,Lance Doyle,Brazil,05-02-2025,Jacket,Apparel,3,340.08,1020.24,UPI
+10318,Robert Roy,USA,29-12-2024,Pen Set,Stationery,5,145.96,729.8,PayPal
+10319,Brandy Young,UK,10-10-2024,Running Shoes,Apparel,4,124.78,499.12,PayPal
+10320,Andrew Mullins,Russia,16-05-2025,Marker Pack,Stationery,5,431.34,2156.7,Credit Card
+10321,Alex Moore,South Korea,19-12-2024,Jacket,Apparel,3,230.36,691.08,PayPal
+10322,Amber Reeves,Canada,28-07-2024,Smartphone,Electronics,2,199.37,398.74,Credit Card
+10323,Sean Ball,UK,06-02-2025,Jacket,Apparel,4,224.4,897.6,UPI
+10324,Kaylee Weaver,South Korea,21-09-2024,Pen Set,Stationery,3,157.12,471.36,Credit Card
+10325,Michael Collier,Russia,03-01-2025,Cotton T-Shirt,Apparel,5,153.56,767.8,UPI
+10326,Marcus Mckinney,South Korea,26-02-2025,Knife Set,Kitchen,2,74.46,148.92,Debit Card
+10327,William Dunlap,Brazil,01-08-2024,Leather Wallet,Accessories,5,337.75,1688.75,Debit Card
+10328,Julie Ward,Brazil,02-02-2025,Tablet,Electronics,5,142.58,712.9,Debit Card
+10329,Allen Carey,USA,25-10-2024,Watch,Accessories,2,82.77,165.54,Debit Card
+10330,Alexander Murphy,Germany,14-02-2025,Bluetooth Headphones,Electronics,1,288.76,288.76,Credit Card
+10331,Kimberly Mckay,Australia,08-10-2024,Jacket,Apparel,2,439.05,878.1,UPI
+10332,Gregory Holland,Brazil,26-03-2025,Cotton T-Shirt,Apparel,4,263.13,1052.52,UPI
+10333,Amy Clements,Canada,02-10-2024,Tablet,Electronics,3,139.49,418.47,Credit Card
+10334,Andrew Marshall,Australia,14-09-2024,Sunglasses,Accessories,3,446.33,1338.99,Credit Card
+10335,Ruth Reed,Canada,12-08-2024,Desk Organizer,Stationery,1,109.99,109.99,Credit Card
+10336,Douglas Gregory,Russia,02-02-2025,Notebook,Stationery,2,182.4,364.8,PayPal
+10337,Robert Cortez,UK,17-07-2024,Knife Set,Kitchen,2,52.35,104.7,PayPal
+10338,Travis Levy,Brazil,15-07-2024,Jacket,Apparel,5,226.54,1132.7,Credit Card
+10339,Micheal Black,Brazil,14-10-2024,Jacket,Apparel,4,41.01,164.04,PayPal
+10340,Andrew Houston,Russia,09-04-2025,Socks,Apparel,1,321.95,321.95,UPI
+10341,Ashley Patterson,Australia,07-09-2024,Wireless Mouse,Electronics,2,488.21,976.42,Debit Card
+10342,Natasha Reese,UK,08-05-2025,Watch,Accessories,3,178.41,535.23,Debit Card
+10343,Nicholas Long,Australia,07-04-2025,Pen Set,Stationery,2,463.76,927.52,PayPal
+10344,Latoya Matthews,Germany,08-01-2025,Sunglasses,Accessories,4,97.7,390.8,Credit Card
+10345,Amy Gill,Germany,09-03-2025,Watch,Accessories,2,499.9,999.8,Credit Card
+10346,Beth Jackson DDS,Canada,18-01-2025,Watch,Accessories,2,128.44,256.88,UPI
+10347,Tamara Nelson,Australia,24-10-2024,Bluetooth Headphones,Electronics,2,307.46,614.92,Debit Card
+10348,Jack Smith,UK,06-11-2024,Sunglasses,Accessories,2,204.09,408.18,UPI
+10349,Jonathon Williams,UK,28-12-2024,Bluetooth Headphones,Electronics,2,300.86,601.72,PayPal
+10350,Kari Thomas,India,08-06-2024,Backpack,Accessories,1,262.81,262.81,Credit Card
+10351,Jason Jones,Russia,09-11-2024,Cookware Set,Kitchen,4,401.15,1604.6,Credit Card
+10352,Whitney Williams,USA,18-04-2025,Knife Set,Kitchen,2,181.56,363.12,Credit Card
+10353,Courtney Barnes,Japan,31-05-2025,Jacket,Apparel,5,141.57,707.85,UPI
+10354,Patrick Ballard,USA,16-08-2024,Coffee Mug,Kitchen,5,60.75,303.75,Credit Card
+10355,Donna Miller,USA,27-02-2025,Bluetooth Headphones,Electronics,5,359.73,1798.65,Debit Card
+10356,Brian Terrell,Australia,02-09-2024,Running Shoes,Apparel,2,321.17,642.34,UPI
+10357,Jill Riddle,Germany,20-08-2024,Sunglasses,Accessories,1,221.96,221.96,Debit Card
+10358,James Moore,USA,11-07-2024,Watch,Accessories,2,36.2,72.4,UPI
+10359,Susan Bowen,Brazil,13-08-2024,Jacket,Apparel,4,282.66,1130.64,Debit Card
+10360,Ann Hansen,India,24-01-2025,Watch,Accessories,4,66.28,265.12,UPI
+10361,Raymond Lopez,Japan,11-01-2025,Coffee Mug,Kitchen,5,383.25,1916.25,Debit Card
+10362,James Johnson,South Korea,04-05-2025,Leather Wallet,Accessories,3,304.96,914.88,Credit Card
+10363,Brian Simmons,Russia,18-07-2024,Coffee Mug,Kitchen,5,351.63,1758.15,PayPal
+10364,Michael Wright,Russia,10-08-2024,Notebook,Stationery,2,142.07,284.14,Debit Card
+10365,Cynthia Valencia,Germany,01-06-2025,Running Shoes,Apparel,1,352.22,352.22,UPI
+10366,Charles Malone,Germany,23-07-2024,Knife Set,Kitchen,4,212.99,851.96,Debit Card
+10367,Andre Todd,Germany,27-05-2025,Wireless Mouse,Electronics,1,229.88,229.88,PayPal
+10368,Deborah Mccormick,USA,05-09-2024,Tablet,Electronics,5,142.81,714.05,Debit Card
+10369,Haley Terry,India,20-02-2025,Watch,Accessories,4,104.97,419.88,PayPal
+10370,Heidi Oliver,USA,24-05-2025,Desk Organizer,Stationery,2,369.47,738.94,UPI
+10371,Erik Bailey,Russia,02-11-2024,Jacket,Apparel,3,42.54,127.62,PayPal
+10372,Andrew Ward,Russia,23-05-2025,Leather Wallet,Accessories,2,399.56,799.12,Credit Card
+10373,Chelsea Watkins,India,30-07-2024,Jacket,Apparel,5,388.78,1943.9,Credit Card
+10374,Jay Sanchez,Brazil,12-05-2025,Running Shoes,Apparel,3,118.04,354.12,Debit Card
+10375,Kimberly Cantrell,UK,15-03-2025,Marker Pack,Stationery,2,452.94,905.88,PayPal
+10376,Kenneth Scott,India,18-11-2024,Cotton T-Shirt,Apparel,3,222.5,667.5,Credit Card
+10377,Christine Wilson,Brazil,18-11-2024,Socks,Apparel,4,211.18,844.72,UPI
+10378,Dalton Scott,Germany,20-03-2025,Watch,Accessories,3,24.04,72.12,PayPal
+10379,Henry Young,Russia,30-11-2024,Pen Set,Stationery,1,45.41,45.41,PayPal
+10380,Michael Bishop,UK,06-05-2025,Cookware Set,Kitchen,1,116.17,116.17,PayPal
+10381,Heather Mckinney,Australia,02-11-2024,Tablet,Electronics,2,491.35,982.7,UPI
+10382,Melanie Pierce,Germany,05-06-2024,Cookware Set,Kitchen,1,197.83,197.83,Debit Card
+10383,Tanner Carr,USA,12-12-2024,Cookware Set,Kitchen,5,142.9,714.5,Credit Card
+10384,Brandon Graham,Australia,01-12-2024,Jacket,Apparel,2,168.26,336.52,PayPal
+10385,Gloria Underwood,UK,17-12-2024,Watch,Accessories,1,263.96,263.96,PayPal
+10386,Darin Ward,Australia,01-01-2025,Desk Organizer,Stationery,4,338.51,1354.04,UPI
+10387,Brandy Jones,Russia,05-02-2025,Tablet,Electronics,2,327.14,654.28,Debit Card
+10388,Brenda Francis,Australia,12-05-2025,Marker Pack,Stationery,2,14.06,28.12,UPI
+10389,Tammy James,Germany,05-11-2024,Cookware Set,Kitchen,5,337.69,1688.45,PayPal
+10390,Kathleen Kaiser,Canada,29-10-2024,Coffee Mug,Kitchen,1,436,436,PayPal
+10391,Maurice Cox,Brazil,27-01-2025,Sunglasses,Accessories,2,134.3,268.6,UPI
+10392,Wayne Patrick,South Korea,07-05-2025,Running Shoes,Apparel,3,252.31,756.93,Debit Card
+10393,Brenda Butler,South Korea,17-01-2025,Desk Organizer,Stationery,2,280.36,560.72,Debit Card
+10394,Maureen Hunt,USA,28-11-2024,Cookware Set,Kitchen,3,28.69,86.07,UPI
+10395,Joshua Garcia,Brazil,09-09-2024,Tablet,Electronics,1,423.55,423.55,PayPal
+10396,Emily Ward,USA,12-01-2025,Cookware Set,Kitchen,3,484.98,1454.94,UPI
+10397,Jessica French,Russia,30-09-2024,Bluetooth Headphones,Electronics,2,349.77,699.54,PayPal
+10398,Andrew Ballard,India,30-04-2025,Bluetooth Headphones,Electronics,1,220.26,220.26,PayPal
+10399,Kyle Duncan,Russia,13-11-2024,Socks,Apparel,2,257.46,514.92,PayPal
+10400,Robert Johnson Jr.,Canada,08-01-2025,Notebook,Stationery,4,32.84,131.36,PayPal
+10401,Austin Wagner,Russia,20-12-2024,Desk Organizer,Stationery,4,200.84,803.36,Credit Card
+10402,Mary Vargas,Japan,28-05-2025,Desk Organizer,Stationery,5,385.25,1926.25,Credit Card
+10403,Carlos Martin,Japan,12-02-2025,Jacket,Apparel,3,325.95,977.85,UPI
+10404,Benjamin Newman,Japan,22-09-2024,Watch,Accessories,2,121.58,243.16,Debit Card
+10405,Adam Walker,UK,10-02-2025,Sunglasses,Accessories,5,254.34,1271.7,Debit Card
+10406,Jessica Moore,Canada,30-04-2025,Backpack,Accessories,4,281.88,1127.52,PayPal
+10407,Ruth Moore,Brazil,02-07-2024,Socks,Apparel,2,424.85,849.7,UPI
+10408,Carrie Walker,Russia,10-08-2024,Tablet,Electronics,4,23.57,94.28,Credit Card
+10409,Kelly Summers,Brazil,07-11-2024,Knife Set,Kitchen,4,111.85,447.4,UPI
+10410,Paul Mckenzie,Australia,19-03-2025,Pen Set,Stationery,5,264.23,1321.15,UPI
+10411,Danielle Ramos,Brazil,08-09-2024,Smartphone,Electronics,2,60.06,120.12,Debit Card
+10412,Jose Blanchard,South Korea,27-03-2025,Knife Set,Kitchen,4,383.75,1535,PayPal
+10413,Dawn Stephens,Russia,29-11-2024,Cookware Set,Kitchen,2,29.13,58.26,UPI
+10414,Thomas Shepherd,Germany,20-01-2025,Smartphone,Electronics,4,272.59,1090.36,PayPal
+10415,Jennifer Brown,Brazil,03-06-2024,Marker Pack,Stationery,4,100.73,402.92,Credit Card
+10416,Evelyn Crawford,Canada,01-07-2024,Wireless Mouse,Electronics,1,301.22,301.22,PayPal
+10417,Dr. Adam Ellison,South Korea,04-05-2025,Sunglasses,Accessories,5,478.68,2393.4,Debit Card
+10418,Heather King,Germany,01-06-2025,Smartphone,Electronics,4,402.92,1611.68,Debit Card
+10419,Amanda Barnes,Russia,18-01-2025,Pen Set,Stationery,2,333.84,667.68,PayPal
+10420,Carlos Bell,Japan,03-01-2025,Tablet,Electronics,4,23.33,93.32,PayPal
+10421,Sean Miller,Japan,22-10-2024,Leather Wallet,Accessories,4,306.69,1226.76,PayPal
+10422,Albert Martinez,Russia,21-12-2024,Smartphone,Electronics,5,254.37,1271.85,Debit Card
+10423,Alexandria Anderson,Russia,11-01-2025,Marker Pack,Stationery,1,14.77,14.77,Debit Card
+10424,Daniel Boyd,South Korea,06-09-2024,Sunglasses,Accessories,4,407.26,1629.04,PayPal
+10425,Ronald Hernandez,Canada,20-11-2024,Watch,Accessories,2,237.31,474.62,Credit Card
+10426,Robert Coleman MD,South Korea,10-08-2024,Cookware Set,Kitchen,4,331.39,1325.56,PayPal
+10427,Christopher Brown,Germany,24-01-2025,Knife Set,Kitchen,3,463.81,1391.43,UPI
+10428,Terri West,Canada,21-11-2024,Tablet,Electronics,1,135.97,135.97,Debit Card
+10429,Ryan Carson,South Korea,24-07-2024,Leather Wallet,Accessories,1,23.1,23.1,Credit Card
+10430,Jennifer Mata,Japan,19-11-2024,Desk Organizer,Stationery,2,11.73,23.46,Debit Card
+10431,Gina Collins,Germany,20-05-2025,Running Shoes,Apparel,4,173.54,694.16,Credit Card
+10432,Bernard Proctor,India,21-01-2025,Desk Organizer,Stationery,1,217.73,217.73,Credit Card
+10433,Christopher Mason,USA,05-12-2024,Pen Set,Stationery,2,117.45,234.9,PayPal
+10434,Amy Harmon,Canada,04-12-2024,Smartphone,Electronics,3,53.01,159.03,UPI
+10435,Charles Holmes,Australia,10-07-2024,Sunglasses,Accessories,4,263.58,1054.32,Credit Card
+10436,Michael Diaz,USA,13-08-2024,Marker Pack,Stationery,2,213.51,427.02,Credit Card
+10437,Katelyn Thompson,Germany,09-06-2024,Socks,Apparel,4,492.04,1968.16,PayPal
+10438,Pamela Rodriguez,India,24-12-2024,Leather Wallet,Accessories,5,49.3,246.5,Debit Card
+10439,Christopher Lowe,India,16-01-2025,Tablet,Electronics,3,122.58,367.74,Credit Card
+10440,Matthew Martinez,South Korea,07-07-2024,Running Shoes,Apparel,5,485.12,2425.6,Credit Card
+10441,Joanna Young,Japan,01-01-2025,Coffee Mug,Kitchen,5,462.95,2314.75,UPI
+10442,Crystal Davis,Germany,11-12-2024,Smartphone,Electronics,4,44.14,176.56,Credit Card
+10443,Michael Pitts MD,India,02-09-2024,Notebook,Stationery,1,305.48,305.48,UPI
+10444,Gerald Hill,Australia,15-12-2024,Leather Wallet,Accessories,3,94.34,283.02,Debit Card
+10445,Dr. Barry Wilson III,Russia,27-01-2025,Jacket,Apparel,5,303.97,1519.85,Credit Card
+10446,Janet Montoya,Germany,20-10-2024,Tablet,Electronics,2,415.55,831.1,PayPal
+10447,Brooke Hicks,USA,28-04-2025,Jacket,Apparel,3,28.95,86.85,UPI
+10448,Anita Chavez,Germany,24-11-2024,Cotton T-Shirt,Apparel,2,320.27,640.54,UPI
+10449,Taylor Johnson,Germany,22-12-2024,Wireless Mouse,Electronics,5,467.4,2337,UPI
+10450,Joseph Ross,South Korea,18-08-2024,Bluetooth Headphones,Electronics,3,164.52,493.56,UPI
+10451,Christopher Murphy,Russia,29-07-2024,Backpack,Accessories,3,317.75,953.25,PayPal
+10452,Frederick Adkins,South Korea,10-03-2025,Notebook,Stationery,4,89.17,356.68,Debit Card
+10453,Matthew Wright Jr.,USA,02-08-2024,Jacket,Apparel,2,254.23,508.46,PayPal
+10454,Steven Bell,India,30-09-2024,Smartphone,Electronics,1,345.28,345.28,Credit Card
+10455,Tony Montgomery,Canada,22-08-2024,Socks,Apparel,4,237.62,950.48,PayPal
+10456,Billy Pena,UK,18-06-2024,Tablet,Electronics,2,148.58,297.16,Credit Card
+10457,John Holden,Brazil,03-03-2025,Desk Organizer,Stationery,4,131.69,526.76,UPI
+10458,Jesus Archer,USA,03-04-2025,Leather Wallet,Accessories,5,165.46,827.3,PayPal
+10459,Andre Brock,India,13-11-2024,Leather Wallet,Accessories,2,277.7,555.4,PayPal
+10460,Jessica Andrews,UK,03-10-2024,Socks,Apparel,4,361.74,1446.96,Credit Card
+10461,Jonathan Wilcox,USA,26-11-2024,Running Shoes,Apparel,5,277,1385,Debit Card
+10462,Rebecca Lara,USA,01-06-2025,Pen Set,Stationery,3,446.38,1339.14,Debit Card
+10463,Brian Lyons,Australia,05-07-2024,Wireless Mouse,Electronics,3,98.18,294.54,UPI
+10464,Courtney Crane,USA,20-03-2025,Notebook,Stationery,1,210.27,210.27,Credit Card
+10465,Joshua Smith,South Korea,03-08-2024,Sunglasses,Accessories,2,149.31,298.62,UPI
+10466,Karen Tanner,South Korea,18-10-2024,Backpack,Accessories,3,237.41,712.23,UPI
+10467,Emily Turner,Brazil,28-05-2025,Cotton T-Shirt,Apparel,1,245.92,245.92,Credit Card
+10468,Heather Wright,Russia,06-10-2024,Marker Pack,Stationery,3,101.43,304.29,UPI
+10469,Bill Henry,Brazil,23-03-2025,Pen Set,Stationery,1,116.53,116.53,PayPal
+10470,Tracy Huang,Australia,30-11-2024,Backpack,Accessories,5,447.41,2237.05,Debit Card
+10471,Cole Medina,Canada,01-07-2024,Tablet,Electronics,5,14.05,70.25,Credit Card
+10472,Paul Baker,Canada,17-11-2024,Marker Pack,Stationery,3,345.86,1037.58,Debit Card
+10473,Christopher Lewis,Japan,08-06-2024,Sunglasses,Accessories,5,189.21,946.05,Debit Card
+10474,Toni Williams,Russia,08-03-2025,Notebook,Stationery,3,203.81,611.43,Credit Card
+10475,Thomas Hall,Germany,12-12-2024,Knife Set,Kitchen,3,249.94,749.82,PayPal
+10476,Jennifer Cross,Russia,02-12-2024,Watch,Accessories,2,391.54,783.08,PayPal
+10477,Jessica Hubbard,Russia,30-06-2024,Desk Organizer,Stationery,5,150,750,PayPal
+10478,Felicia Porter,India,12-09-2024,Bluetooth Headphones,Electronics,4,328.16,1312.64,UPI
+10479,Christian Matthews,South Korea,19-07-2024,Smartphone,Electronics,1,271.17,271.17,Debit Card
+10480,Shane West,South Korea,14-01-2025,Jacket,Apparel,5,284.11,1420.55,Credit Card
+10481,Caitlin Ramos,Australia,02-02-2025,Tablet,Electronics,5,418.59,2092.95,UPI
+10482,Kristen Williams,UK,16-04-2025,Watch,Accessories,1,498.67,498.67,UPI
+10483,Stephanie Stephens,USA,05-02-2025,Jacket,Apparel,3,391.56,1174.68,UPI
+10484,Donna Henry,India,22-05-2025,Bluetooth Headphones,Electronics,2,328.28,656.56,PayPal
+10485,Mrs. Jennifer Campbell,Germany,26-05-2025,Backpack,Accessories,2,158.35,316.7,Debit Card
+10486,Chris Wilson,Australia,02-05-2025,Socks,Apparel,2,39.5,79,Credit Card
+10487,James Heath,Brazil,30-06-2024,Coffee Mug,Kitchen,4,174.32,697.28,PayPal
+10488,Thomas Kerr,Germany,21-08-2024,Sunglasses,Accessories,4,319.34,1277.36,Debit Card
+10489,Daniel Jacobs,UK,31-12-2024,Tablet,Electronics,5,14.21,71.05,UPI
+10490,William Contreras,Russia,19-05-2025,Leather Wallet,Accessories,5,110.11,550.55,UPI
+10491,Amber Johnson,India,17-04-2025,Notebook,Stationery,5,180.81,904.05,Debit Card
+10492,Lance Henry,South Korea,21-09-2024,Cookware Set,Kitchen,4,82.48,329.92,Debit Card
+10493,Kim Johnson,India,08-10-2024,Jacket,Apparel,2,253.13,506.26,PayPal
+10494,Lydia Rivas,Germany,21-07-2024,Pen Set,Stationery,2,342.29,684.58,UPI
+10495,Paul Jackson,Japan,17-06-2024,Bluetooth Headphones,Electronics,1,337.63,337.63,Credit Card
+10496,Stephen Perez,Canada,04-08-2024,Watch,Accessories,4,390.32,1561.28,Debit Card
+10497,Samuel Smith Jr.,Canada,21-07-2024,Leather Wallet,Accessories,2,275.54,551.08,Credit Card
+10498,Mrs. Kelly Daniels,Japan,23-11-2024,Cookware Set,Kitchen,4,420.31,1681.24,Credit Card
+10499,Mary Moore,Canada,26-06-2024,Coffee Mug,Kitchen,3,122.06,366.18,Credit Card
+10500,Emily Brewer,India,18-03-2025,Leather Wallet,Accessories,5,131.2,656,Credit Card
+10501,Chris Nicholson,Germany,06-07-2024,Leather Wallet,Accessories,3,14.5,43.5,PayPal
+10502,Dr. Melinda Snyder,India,01-10-2024,Wireless Mouse,Electronics,1,406.8,406.8,UPI
+10503,Dr. Abigail Mckinney,Brazil,28-09-2024,Bluetooth Headphones,Electronics,3,125.32,375.96,Debit Card
+10504,Melissa Schultz,India,02-04-2025,Socks,Apparel,5,267.77,1338.85,Credit Card
+10505,Harold Cooper,India,04-10-2024,Marker Pack,Stationery,3,250.46,751.38,Credit Card
+10506,Michael Patrick,India,22-04-2025,Tablet,Electronics,1,356.75,356.75,Debit Card
+10507,Justin Berry,South Korea,29-04-2025,Leather Wallet,Accessories,5,97.82,489.1,Debit Card
+10508,Roy Barber,USA,05-06-2024,Cotton T-Shirt,Apparel,5,309.93,1549.65,PayPal
+10509,John Jones,India,31-01-2025,Knife Set,Kitchen,5,177.47,887.35,Credit Card
+10510,Timothy Maynard,UK,10-04-2025,Coffee Mug,Kitchen,4,480.77,1923.08,Debit Card
+10511,Danielle Barajas,Brazil,04-04-2025,Socks,Apparel,5,371.82,1859.1,Debit Card
+10512,Michael Miller,USA,21-06-2024,Tablet,Electronics,4,210.14,840.56,Credit Card
+10513,Kyle Snow,UK,02-12-2024,Running Shoes,Apparel,2,66.86,133.72,PayPal
+10514,Julie Sims,Canada,18-10-2024,Tablet,Electronics,1,160.67,160.67,PayPal
+10515,Jennifer Cook,Germany,02-01-2025,Bluetooth Headphones,Electronics,1,59.77,59.77,PayPal
+10516,Matthew Hernandez,Russia,11-05-2025,Bluetooth Headphones,Electronics,1,241.72,241.72,Credit Card
+10517,Deanna Miller,USA,19-11-2024,Desk Organizer,Stationery,3,81.21,243.63,UPI
+10518,Jennifer Richardson,Germany,20-04-2025,Pen Set,Stationery,4,70.29,281.16,Credit Card
+10519,Mariah Brown,UK,22-09-2024,Desk Organizer,Stationery,5,175.64,878.2,Debit Card
+10520,Kelly Scott,India,09-12-2024,Wireless Mouse,Electronics,3,367.72,1103.16,UPI
+10521,Sean Scott,Japan,14-09-2024,Tablet,Electronics,5,290.54,1452.7,Debit Card
+10522,Amy Alvarez,Brazil,23-10-2024,Running Shoes,Apparel,2,26.27,52.54,UPI
+10523,Christopher Gallegos,Canada,21-09-2024,Pen Set,Stationery,5,25.01,125.05,Debit Card
+10524,Aaron Thompson,Russia,04-12-2024,Marker Pack,Stationery,3,271.81,815.43,Debit Card
+10525,Joshua Lee,USA,28-02-2025,Running Shoes,Apparel,3,84.31,252.93,PayPal
+10526,Justin Johnson,India,28-09-2024,Wireless Mouse,Electronics,4,133.63,534.52,PayPal
+10527,Rhonda Larson,Russia,27-05-2025,Sunglasses,Accessories,5,65.09,325.45,PayPal
+10528,Melanie Austin,Japan,08-07-2024,Notebook,Stationery,4,483.77,1935.08,Credit Card
+10529,Barbara Fowler,Germany,26-04-2025,Watch,Accessories,5,93.78,468.9,UPI
+10530,Todd Cervantes,Brazil,03-12-2024,Tablet,Electronics,4,422.78,1691.12,Credit Card
+10531,Jennifer Floyd,Brazil,23-07-2024,Socks,Apparel,1,79.62,79.62,Debit Card
+10532,Kenneth Wise,Canada,26-09-2024,Cookware Set,Kitchen,4,123.58,494.32,Debit Card
+10533,Jason Colon,Brazil,19-03-2025,Running Shoes,Apparel,1,74.2,74.2,PayPal
+10534,Angela Fletcher,India,29-07-2024,Socks,Apparel,5,263.83,1319.15,UPI
+10535,Timothy Cohen,Canada,03-12-2024,Blender,Kitchen,1,122.68,122.68,PayPal
+10536,Daniel Collins,Russia,22-07-2024,Blender,Kitchen,1,257.7,257.7,Credit Card
+10537,Holly Rivers,Germany,04-04-2025,Wireless Mouse,Electronics,3,134.16,402.48,PayPal
+10538,Eric Richards,South Korea,09-12-2024,Blender,Kitchen,1,150.08,150.08,Credit Card
+10539,Michele Tate,USA,17-06-2024,Cookware Set,Kitchen,1,490.09,490.09,Credit Card
+10540,Travis Roberts,Russia,03-08-2024,Blender,Kitchen,5,387.83,1939.15,UPI
+10541,Jason Hawkins,Brazil,20-05-2025,Smartphone,Electronics,3,157.07,471.21,PayPal
+10542,John Melton,Brazil,27-07-2024,Backpack,Accessories,5,186.15,930.75,PayPal
+10543,Sarah Frazier,Russia,05-02-2025,Smartphone,Electronics,5,438.96,2194.8,UPI
+10544,Shari Cummings,South Korea,16-02-2025,Knife Set,Kitchen,5,489.6,2448,PayPal
+10545,William Collins,USA,23-08-2024,Cotton T-Shirt,Apparel,4,499.47,1997.88,Debit Card
+10546,Shirley Wiggins,Russia,25-06-2024,Tablet,Electronics,2,143.68,287.36,Credit Card
+10547,Kelly Hartman,South Korea,18-11-2024,Desk Organizer,Stationery,2,124.04,248.08,PayPal
+10548,Steven French,UK,18-03-2025,Watch,Accessories,4,250.27,1001.08,Debit Card
+10549,Manuel Walsh,South Korea,17-11-2024,Cookware Set,Kitchen,3,230.31,690.93,UPI
+10550,Dale Jones,Russia,12-02-2025,Coffee Mug,Kitchen,3,244.27,732.81,Debit Card
+10551,Michelle Peters,USA,14-03-2025,Cookware Set,Kitchen,5,383.3,1916.5,Credit Card
+10552,Ellen Mcdaniel,Germany,03-03-2025,Blender,Kitchen,3,17.31,51.93,Debit Card
+10553,Keith Norris,Japan,30-06-2024,Sunglasses,Accessories,4,246.58,986.32,UPI
+10554,Brenda Gomez,Brazil,15-03-2025,Coffee Mug,Kitchen,2,54.67,109.34,UPI
+10555,Heather Cannon,Brazil,21-06-2024,Knife Set,Kitchen,1,410.33,410.33,Debit Card
+10556,Tina Johnson,Japan,18-04-2025,Tablet,Electronics,3,180.32,540.96,Credit Card
+10557,Robert Campbell,Germany,02-11-2024,Desk Organizer,Stationery,2,103.9,207.8,Debit Card
+10558,John Morgan,Canada,26-02-2025,Sunglasses,Accessories,4,254.5,1018,UPI
+10559,Tammy Conner,Brazil,20-12-2024,Marker Pack,Stationery,5,359.04,1795.2,PayPal
+10560,Becky Barker,South Korea,20-11-2024,Knife Set,Kitchen,2,219.43,438.86,Credit Card
+10561,Heather Garcia,Australia,03-01-2025,Smartphone,Electronics,1,418.5,418.5,PayPal
+10562,Amy Butler,South Korea,01-05-2025,Backpack,Accessories,2,402.85,805.7,PayPal
+10563,Sara Petersen,South Korea,24-08-2024,Backpack,Accessories,1,202.3,202.3,Credit Card
+10564,Stephen Goodman,UK,04-03-2025,Coffee Mug,Kitchen,4,213.58,854.32,Debit Card
+10565,Mark Hawkins,India,02-02-2025,Coffee Mug,Kitchen,2,175.22,350.44,Debit Card
+10566,David Fernandez,Russia,24-10-2024,Marker Pack,Stationery,2,391.36,782.72,PayPal
+10567,Kelly Moreno,South Korea,02-05-2025,Blender,Kitchen,2,354.09,708.18,Credit Card
+10568,Amy Brooks,USA,26-09-2024,Running Shoes,Apparel,3,19.76,59.28,PayPal
+10569,Veronica Buckley,India,16-03-2025,Watch,Accessories,5,413.89,2069.45,UPI
+10570,Nancy Thompson,India,28-01-2025,Tablet,Electronics,4,92.58,370.32,PayPal
+10571,Robert Brown,Japan,02-08-2024,Sunglasses,Accessories,1,80.03,80.03,UPI
+10572,Tammy White,India,18-09-2024,Bluetooth Headphones,Electronics,2,175.91,351.82,Debit Card
+10573,Thomas Adams,Australia,24-09-2024,Notebook,Stationery,1,473.13,473.13,UPI
+10574,Steven Nelson,Australia,11-09-2024,Marker Pack,Stationery,2,131.26,262.52,PayPal
+10575,Christina Bautista,South Korea,28-11-2024,Watch,Accessories,3,19.27,57.81,UPI
+10576,John Diaz,India,21-09-2024,Knife Set,Kitchen,5,197.85,989.25,UPI
+10577,Daniel Smith,South Korea,07-04-2025,Marker Pack,Stationery,3,498.23,1494.69,UPI
+10578,Jeanette Morris,Australia,05-02-2025,Wireless Mouse,Electronics,5,211.09,1055.45,PayPal
+10579,Chad Moss,Russia,10-01-2025,Pen Set,Stationery,1,427.45,427.45,Credit Card
+10580,Rick Johnston,Australia,21-04-2025,Cookware Set,Kitchen,2,232.99,465.98,UPI
+10581,Jake Benson,Russia,06-05-2025,Cotton T-Shirt,Apparel,2,40.63,81.26,Debit Card
+10582,Angel Williams,Canada,12-06-2024,Smartphone,Electronics,2,221.74,443.48,Credit Card
+10583,David Brown,Russia,13-09-2024,Sunglasses,Accessories,5,65.45,327.25,Credit Card
+10584,Jerry Morse,Canada,29-07-2024,Wireless Mouse,Electronics,2,292.09,584.18,PayPal
+10585,Paula Kennedy,Brazil,25-11-2024,Desk Organizer,Stationery,5,294.77,1473.85,Debit Card
+10586,Kayla Nicholson,Canada,28-11-2024,Jacket,Apparel,5,266.1,1330.5,Credit Card
+10587,Sarah Morgan,Germany,25-12-2024,Tablet,Electronics,4,251.28,1005.12,Debit Card
+10588,Jenna Davis,USA,19-08-2024,Running Shoes,Apparel,1,425.74,425.74,UPI
+10589,Jason Huffman,South Korea,11-03-2025,Watch,Accessories,1,69.94,69.94,Debit Card
+10590,Sonya Foster,Japan,28-10-2024,Cotton T-Shirt,Apparel,1,473.53,473.53,PayPal
+10591,Christopher Burton,South Korea,08-01-2025,Running Shoes,Apparel,5,382.56,1912.8,UPI
+10592,Connie Riley,Canada,15-09-2024,Running Shoes,Apparel,5,144.57,722.85,Credit Card
+10593,Bradley White,Brazil,30-11-2024,Jacket,Apparel,2,400.96,801.92,PayPal
+10594,Christine Cox,Brazil,18-08-2024,Tablet,Electronics,3,490.54,1471.62,PayPal
+10595,Dawn Miller,Brazil,27-03-2025,Coffee Mug,Kitchen,4,385.63,1542.52,UPI
+10596,Joel Gross,Canada,15-02-2025,Tablet,Electronics,1,345.03,345.03,Credit Card
+10597,Kristi Jackson,Japan,10-06-2024,Blender,Kitchen,2,388.76,777.52,UPI
+10598,Alexis Hernandez,India,27-05-2025,Backpack,Accessories,5,182.56,912.8,Credit Card
+10599,Hannah Sawyer,Australia,12-08-2024,Smartphone,Electronics,2,349.26,698.52,PayPal
+10600,Edgar Smith,Japan,16-05-2025,Jacket,Apparel,3,52.54,157.62,Credit Card
+10601,Derek Parrish,USA,22-04-2025,Cotton T-Shirt,Apparel,2,447.54,895.08,PayPal
+10602,Robert Smith,Canada,01-10-2024,Cookware Set,Kitchen,5,256.51,1282.55,UPI
+10603,Anthony Rodriguez,Brazil,23-08-2024,Backpack,Accessories,3,168.83,506.49,Credit Card
+10604,Samuel Morgan,Japan,30-12-2024,Socks,Apparel,2,491.43,982.86,Debit Card
+10605,Tammy Walters,Germany,24-07-2024,Blender,Kitchen,4,481.97,1927.88,UPI
+10606,Justin Evans,USA,25-08-2024,Running Shoes,Apparel,2,276.54,553.08,Credit Card
+10607,William Leach,Germany,18-05-2025,Cookware Set,Kitchen,3,10.17,30.51,UPI
+10608,Susan Graham,UK,11-12-2024,Backpack,Accessories,5,346.4,1732,Debit Card
+10609,Glenn Carter,Brazil,05-06-2024,Cookware Set,Kitchen,5,425.87,2129.35,Debit Card
+10610,Keith Montes,UK,19-01-2025,Socks,Apparel,2,481.65,963.3,UPI
+10611,Carolyn Hanson,Japan,05-12-2024,Knife Set,Kitchen,1,419.78,419.78,PayPal
+10612,Abigail Perez,USA,15-11-2024,Knife Set,Kitchen,1,30.64,30.64,Credit Card
+10613,Scott Stephens,Russia,09-10-2024,Jacket,Apparel,4,490.44,1961.76,PayPal
+10614,Lindsey Larson,Germany,11-02-2025,Knife Set,Kitchen,5,352.29,1761.45,PayPal
+10615,Jeffrey Shannon,Germany,22-02-2025,Jacket,Apparel,2,89.84,179.68,Debit Card
+10616,Gina Stevens,South Korea,27-02-2025,Wireless Mouse,Electronics,3,416.64,1249.92,Debit Card
+10617,Stacy Hamilton,UK,01-06-2025,Backpack,Accessories,2,55.51,111.02,UPI
+10618,Rebekah Williams,UK,06-10-2024,Sunglasses,Accessories,5,7.31,36.55,PayPal
+10619,Cheryl Hopkins,Australia,17-07-2024,Smartphone,Electronics,3,141.14,423.42,PayPal
+10620,Joseph Olson,Russia,20-04-2025,Watch,Accessories,3,65.78,197.34,Credit Card
+10621,Paul Cole,Canada,17-02-2025,Desk Organizer,Stationery,2,155.82,311.64,Debit Card
+10622,Sarah Butler,Russia,12-12-2024,Running Shoes,Apparel,4,202.75,811,Credit Card
+10623,Danielle Higgins,Russia,28-04-2025,Sunglasses,Accessories,1,425.19,425.19,UPI
+10624,John Johnson,South Korea,21-10-2024,Sunglasses,Accessories,3,224.29,672.87,Debit Card
+10625,Daniel King,Australia,31-07-2024,Knife Set,Kitchen,4,48.31,193.24,PayPal
+10626,Mary Garcia,Brazil,17-02-2025,Backpack,Accessories,1,456.94,456.94,Credit Card
+10627,Heather Dunn,Germany,20-10-2024,Cotton T-Shirt,Apparel,1,160.21,160.21,Credit Card
+10628,Lauren Perez,USA,19-08-2024,Jacket,Apparel,4,196.39,785.56,UPI
+10629,Matthew Hughes,Russia,30-07-2024,Coffee Mug,Kitchen,4,475.27,1901.08,PayPal
+10630,Carolyn Conway,Australia,30-01-2025,Blender,Kitchen,3,159.35,478.05,Debit Card
+10631,Mark Jackson,USA,24-04-2025,Socks,Apparel,1,233.4,233.4,Credit Card
+10632,Brandon Pineda,Brazil,18-07-2024,Backpack,Accessories,1,451.2,451.2,Credit Card
+10633,Linda Ray,Brazil,11-05-2025,Bluetooth Headphones,Electronics,1,300.86,300.86,Debit Card
+10634,Lisa Carter,Russia,01-07-2024,Cookware Set,Kitchen,3,438.49,1315.47,UPI
+10635,Brenda Meyer,USA,28-02-2025,Tablet,Electronics,4,444.34,1777.36,Debit Card
+10636,Laura Brown,South Korea,19-07-2024,Socks,Apparel,2,95.44,190.88,Credit Card
+10637,Travis Stephens,USA,26-11-2024,Running Shoes,Apparel,3,476.96,1430.88,Debit Card
+10638,Ashley Houston,Japan,10-09-2024,Sunglasses,Accessories,3,72.52,217.56,UPI
+10639,Vincent Adams,South Korea,16-05-2025,Leather Wallet,Accessories,3,361.6,1084.8,UPI
+10640,Jason Collins,UK,09-04-2025,Jacket,Apparel,5,349.91,1749.55,Credit Card
+10641,Caleb Rodgers,Canada,29-06-2024,Cotton T-Shirt,Apparel,3,296.27,888.81,PayPal
+10642,Andrea Price,Australia,01-08-2024,Sunglasses,Accessories,2,379.45,758.9,UPI
+10643,Mr. Patrick Powell,Brazil,16-02-2025,Bluetooth Headphones,Electronics,2,467.79,935.58,UPI
+10644,Mr. David Reeves Jr.,Australia,28-08-2024,Bluetooth Headphones,Electronics,5,43.02,215.1,PayPal
+10645,Michael Hebert,South Korea,07-07-2024,Cotton T-Shirt,Apparel,2,288.31,576.62,PayPal
+10646,Zoe Bailey,Russia,01-01-2025,Knife Set,Kitchen,1,172.38,172.38,PayPal
+10647,Gregory Garza,USA,13-05-2025,Marker Pack,Stationery,4,429.86,1719.44,Credit Card
+10648,Steven Taylor,South Korea,14-04-2025,Desk Organizer,Stationery,4,435.35,1741.4,Credit Card
+10649,Alicia Wong,South Korea,02-02-2025,Cotton T-Shirt,Apparel,2,236.35,472.7,PayPal
+10650,Meredith Hill,USA,25-12-2024,Blender,Kitchen,3,484.08,1452.24,Credit Card
+10651,Sheila Butler,Brazil,19-11-2024,Watch,Accessories,4,422.06,1688.24,Credit Card
+10652,Rebecca Winters,Russia,21-10-2024,Notebook,Stationery,3,343.66,1030.98,UPI
+10653,Susan Henderson,USA,11-04-2025,Coffee Mug,Kitchen,1,377.43,377.43,Debit Card
+10654,Whitney Brown,USA,19-11-2024,Marker Pack,Stationery,3,410.04,1230.12,UPI
+10655,Melanie Ford,UK,18-04-2025,Coffee Mug,Kitchen,1,139.94,139.94,Debit Card
+10656,Paul Mcintosh,USA,24-02-2025,Wireless Mouse,Electronics,5,161.4,807,PayPal
+10657,Craig Harris,India,02-01-2025,Cookware Set,Kitchen,1,161.08,161.08,PayPal
+10658,Christopher Bates,Brazil,15-02-2025,Tablet,Electronics,3,309.2,927.6,UPI
+10659,Jennifer Cruz,South Korea,24-01-2025,Cotton T-Shirt,Apparel,1,290.43,290.43,Debit Card
+10660,Anthony Holmes,UK,06-09-2024,Smartphone,Electronics,4,377.64,1510.56,Debit Card
+10661,Ethan Hinton,Russia,19-08-2024,Desk Organizer,Stationery,5,64.51,322.55,UPI
+10662,Leslie Hernandez,Japan,09-03-2025,Sunglasses,Accessories,1,381,381,PayPal
+10663,Laura Norris,Russia,11-11-2024,Socks,Apparel,1,382.42,382.42,UPI
+10664,Melissa Jackson,South Korea,30-11-2024,Tablet,Electronics,2,68.66,137.32,Debit Card
+10665,Lori Hernandez,UK,12-09-2024,Blender,Kitchen,4,52.21,208.84,UPI
+10666,Margaret Mcmahon,Germany,20-02-2025,Running Shoes,Apparel,1,20.81,20.81,UPI
+10667,Kimberly Dean,UK,01-09-2024,Cotton T-Shirt,Apparel,2,32.13,64.26,UPI
+10668,Heather Ross,UK,22-04-2025,Knife Set,Kitchen,2,477.05,954.1,UPI
+10669,Jeffrey Williams,UK,29-05-2025,Notebook,Stationery,5,414.35,2071.75,PayPal
+10670,Brendan Thompson,South Korea,23-12-2024,Pen Set,Stationery,3,483.54,1450.62,Debit Card
+10671,Jessica Rodriguez,Japan,05-02-2025,Cookware Set,Kitchen,4,406.27,1625.08,Debit Card
+10672,John Smith,South Korea,05-10-2024,Sunglasses,Accessories,5,193.82,969.1,PayPal
+10673,Alan Figueroa,Germany,29-03-2025,Watch,Accessories,1,217.08,217.08,Debit Card
+10674,Corey Bradley,South Korea,23-05-2025,Pen Set,Stationery,2,490.46,980.92,UPI
+10675,Jason Wolf,Australia,30-06-2024,Backpack,Accessories,3,285.99,857.97,PayPal
+10676,Mark Bell Jr.,Australia,27-12-2024,Watch,Accessories,5,210.34,1051.7,UPI
+10677,Lisa Gutierrez,Australia,02-06-2024,Socks,Apparel,2,161.46,322.92,Debit Card
+10678,Mike Moreno,Canada,23-03-2025,Blender,Kitchen,3,219.94,659.82,PayPal
+10679,Carmen Powell,Russia,28-04-2025,Blender,Kitchen,1,484.01,484.01,Debit Card
+10680,Jared Schultz,Russia,27-02-2025,Blender,Kitchen,2,211.91,423.82,Debit Card
+10681,Anna Mueller,South Korea,24-08-2024,Smartphone,Electronics,5,135.38,676.9,PayPal
+10682,Holly Blake,Germany,01-08-2024,Coffee Mug,Kitchen,2,318.79,637.58,UPI
+10683,Dylan Phillips,USA,26-11-2024,Tablet,Electronics,3,227.93,683.79,Credit Card
+10684,Stacey Ramirez,UK,08-01-2025,Pen Set,Stationery,4,418.38,1673.52,UPI
+10685,Dr. David Hunter,Brazil,15-01-2025,Backpack,Accessories,4,180.06,720.24,UPI
+10686,John Peters,Russia,25-05-2025,Sunglasses,Accessories,5,245.24,1226.2,UPI
+10687,Regina Ochoa,Brazil,17-04-2025,Smartphone,Electronics,1,288.36,288.36,PayPal
+10688,Ashley Ross,Russia,08-05-2025,Tablet,Electronics,1,219.1,219.1,PayPal
+10689,Rachel Daugherty,Russia,29-03-2025,Blender,Kitchen,4,92.23,368.92,Credit Card
+10690,Roy Bennett,South Korea,20-11-2024,Cookware Set,Kitchen,4,264.82,1059.28,Debit Card
+10691,Haley Burke,Japan,30-11-2024,Leather Wallet,Accessories,4,248.61,994.44,Credit Card
+10692,Sandra Holt,Australia,10-04-2025,Backpack,Accessories,1,27.14,27.14,Credit Card
+10693,William Deleon,South Korea,09-10-2024,Marker Pack,Stationery,5,427.1,2135.5,UPI
+10694,Jeffrey Gray,Brazil,01-03-2025,Tablet,Electronics,4,64.19,256.76,Debit Card
+10695,Jennifer Thomas,Brazil,21-02-2025,Bluetooth Headphones,Electronics,4,59.88,239.52,PayPal
+10696,Terry Ritter,Japan,14-08-2024,Desk Organizer,Stationery,2,363.8,727.6,UPI
+10697,Nancy Guerra,Japan,03-12-2024,Backpack,Accessories,2,199.36,398.72,Credit Card
+10698,Joshua Johnson,Russia,22-05-2025,Running Shoes,Apparel,2,382.58,765.16,Credit Card
+10699,Michelle Hart,UK,24-03-2025,Wireless Mouse,Electronics,5,14.26,71.3,PayPal
+10700,Amanda Williams,Canada,09-02-2025,Bluetooth Headphones,Electronics,2,7.24,14.48,UPI
+10701,Gabrielle Perry,India,23-12-2024,Wireless Mouse,Electronics,5,252.36,1261.8,PayPal
+10702,Jason Thompson,South Korea,02-06-2024,Jacket,Apparel,3,400.25,1200.75,Credit Card
+10703,Andrew Beard,India,12-02-2025,Desk Organizer,Stationery,2,350.09,700.18,UPI
+10704,Mrs. Caitlin Moreno,Australia,06-11-2024,Knife Set,Kitchen,1,77.03,77.03,Credit Card
+10705,Stephen Williams,Japan,08-04-2025,Jacket,Apparel,5,230.96,1154.8,UPI
+10706,Kevin Parker,Russia,02-11-2024,Pen Set,Stationery,5,395.22,1976.1,Credit Card
+10707,Paige Oneill,Russia,10-01-2025,Leather Wallet,Accessories,3,202.17,606.51,PayPal
+10708,Jamie Williams,UK,25-10-2024,Notebook,Stationery,5,387.69,1938.45,UPI
+10709,Wendy Anderson,India,02-06-2025,Marker Pack,Stationery,5,474.34,2371.7,Debit Card
+10710,Anna Nguyen,Japan,11-03-2025,Backpack,Accessories,5,44.48,222.4,Credit Card
+10711,Justin Clay,South Korea,14-09-2024,Pen Set,Stationery,2,385.41,770.82,UPI
+10712,Amy Johnson,Russia,13-12-2024,Cotton T-Shirt,Apparel,4,18.33,73.32,Debit Card
+10713,Brian Jones,Brazil,25-02-2025,Cookware Set,Kitchen,4,326.63,1306.52,UPI
+10714,David Forbes,Russia,22-07-2024,Knife Set,Kitchen,1,328.55,328.55,Debit Card
+10715,Mary Jackson,Germany,09-04-2025,Smartphone,Electronics,3,301.57,904.71,UPI
+10716,Kimberly Faulkner,Russia,07-10-2024,Marker Pack,Stationery,5,89.38,446.9,UPI
+10717,Katherine Reed,Australia,06-12-2024,Smartphone,Electronics,2,18.9,37.8,Debit Card
+10718,Sean Nelson,Germany,01-08-2024,Pen Set,Stationery,2,329.36,658.72,Credit Card
+10719,Kristin Garcia,India,20-11-2024,Watch,Accessories,3,329.75,989.25,UPI
+10720,Marc Campbell,Japan,13-01-2025,Wireless Mouse,Electronics,1,132.4,132.4,UPI
+10721,Olivia Raymond,South Korea,26-04-2025,Sunglasses,Accessories,5,100.82,504.1,PayPal
+10722,Rachel Melendez,Brazil,17-10-2024,Cookware Set,Kitchen,3,258.69,776.07,UPI
+10723,Pamela Diaz,Russia,20-11-2024,Jacket,Apparel,1,433.87,433.87,PayPal
+10724,Joseph Anderson,Canada,24-05-2025,Watch,Accessories,2,112.51,225.02,Debit Card
+10725,Barry Smith,USA,07-09-2024,Notebook,Stationery,3,492.58,1477.74,Credit Card
+10726,Michael Ramirez,Brazil,24-05-2025,Cotton T-Shirt,Apparel,4,233.46,933.84,Credit Card
+10727,Chad White,India,10-04-2025,Jacket,Apparel,4,67.61,270.44,Debit Card
+10728,Jill Atkinson,Canada,27-08-2024,Smartphone,Electronics,5,65.59,327.95,Debit Card
+10729,Gary Wyatt,Russia,16-10-2024,Blender,Kitchen,3,78.93,236.79,Credit Card
+10730,Kelly Avila,South Korea,22-06-2024,Pen Set,Stationery,1,327.44,327.44,PayPal
+10731,Joseph Kim,Australia,30-08-2024,Coffee Mug,Kitchen,2,382.22,764.44,Debit Card
+10732,Jesus Robinson,Brazil,11-10-2024,Desk Organizer,Stationery,2,263.71,527.42,PayPal
+10733,Cole Hayes,Brazil,22-10-2024,Desk Organizer,Stationery,5,240.62,1203.1,PayPal
+10734,Daniel Mckenzie,Brazil,01-11-2024,Tablet,Electronics,1,445.31,445.31,Debit Card
+10735,John Carroll,UK,03-04-2025,Marker Pack,Stationery,3,270.52,811.56,Credit Card
+10736,Ann Harris,Japan,25-06-2024,Cotton T-Shirt,Apparel,4,330.7,1322.8,Debit Card
+10737,David Hall,South Korea,08-05-2025,Cotton T-Shirt,Apparel,5,181.89,909.45,PayPal
+10738,Scott Lambert,South Korea,11-05-2025,Running Shoes,Apparel,1,94.01,94.01,UPI
+10739,Nathan Keith,Canada,19-07-2024,Blender,Kitchen,4,53.11,212.44,Credit Card
+10740,Mark Miller,Canada,13-05-2025,Sunglasses,Accessories,4,122.61,490.44,UPI
+10741,Kristin Watkins,South Korea,16-03-2025,Desk Organizer,Stationery,4,382.75,1531,UPI
+10742,Bradley Wright,UK,09-12-2024,Wireless Mouse,Electronics,2,231.92,463.84,UPI
+10743,Timothy Henson,India,18-12-2024,Cotton T-Shirt,Apparel,5,49.12,245.6,Credit Card
+10744,Timothy Brown,India,25-11-2024,Knife Set,Kitchen,4,171.01,684.04,Debit Card
+10745,Shannon Martinez,Canada,29-08-2024,Socks,Apparel,2,445.93,891.86,Debit Card
+10746,Gary Hancock,UK,20-07-2024,Marker Pack,Stationery,1,345.84,345.84,UPI
+10747,Wayne Williams,India,12-09-2024,Cookware Set,Kitchen,2,145.88,291.76,Credit Card
+10748,Courtney Mendoza,Russia,06-09-2024,Socks,Apparel,5,382.9,1914.5,PayPal
+10749,Tracy Hudson,India,04-12-2024,Watch,Accessories,2,444.56,889.12,PayPal
+10750,Jacob Moore,South Korea,20-08-2024,Marker Pack,Stationery,5,469.69,2348.45,Debit Card
+10751,Raymond Rios,Russia,24-10-2024,Running Shoes,Apparel,5,100.54,502.7,Debit Card
+10752,Sandra Carter,Japan,24-08-2024,Knife Set,Kitchen,2,310.05,620.1,Credit Card
+10753,Steven Acevedo MD,Canada,06-08-2024,Cotton T-Shirt,Apparel,5,93.66,468.3,UPI
+10754,Raymond Mcneil,South Korea,07-06-2024,Marker Pack,Stationery,5,143.34,716.7,Debit Card
+10755,Kristen Ramos,Brazil,24-09-2024,Smartphone,Electronics,5,229.72,1148.6,Credit Card
+10756,Cindy Peterson,UK,09-10-2024,Smartphone,Electronics,2,394.18,788.36,UPI
+10757,Rachel Gordon,UK,11-09-2024,Knife Set,Kitchen,3,14.33,42.99,Credit Card
+10758,Maria Fernandez,UK,05-04-2025,Blender,Kitchen,3,17.38,52.14,Debit Card
+10759,William Sanford,India,30-05-2025,Socks,Apparel,3,211.85,635.55,Credit Card
+10760,Robert Serrano,Canada,27-10-2024,Desk Organizer,Stationery,3,373.72,1121.16,Debit Card
+10761,Emily Gutierrez,South Korea,16-12-2024,Smartphone,Electronics,3,326.08,978.24,PayPal
+10762,Gerald Moran,UK,16-10-2024,Socks,Apparel,2,367.4,734.8,PayPal
+10763,Juan Thompson,Russia,02-06-2024,Backpack,Accessories,2,369.29,738.58,UPI
+10764,Sarah Jordan,USA,31-01-2025,Cotton T-Shirt,Apparel,5,453.3,2266.5,UPI
+10765,Natalie Henderson,USA,25-01-2025,Pen Set,Stationery,2,344.56,689.12,PayPal
+10766,Michael Holloway,Canada,01-08-2024,Notebook,Stationery,5,397.16,1985.8,Debit Card
+10767,Christina Williams DDS,South Korea,05-06-2024,Tablet,Electronics,1,215.94,215.94,PayPal
+10768,Michael Murphy,Canada,09-08-2024,Leather Wallet,Accessories,1,435.08,435.08,Debit Card
+10769,Michele Anthony,India,07-09-2024,Backpack,Accessories,4,437.47,1749.88,PayPal
+10770,Philip Peterson,South Korea,17-05-2025,Knife Set,Kitchen,1,489.69,489.69,UPI
+10771,Richard Tyler,Brazil,10-01-2025,Leather Wallet,Accessories,3,19.53,58.59,Debit Card
+10772,Manuel Cisneros,Germany,14-02-2025,Desk Organizer,Stationery,1,380.82,380.82,UPI
+10773,Linda Robbins,USA,09-06-2024,Knife Set,Kitchen,3,89.37,268.11,Credit Card
+10774,Michelle Cole,Canada,07-11-2024,Smartphone,Electronics,2,376.36,752.72,Debit Card
+10775,Roy Santiago,Brazil,30-04-2025,Cookware Set,Kitchen,5,214.74,1073.7,Debit Card
+10776,Jason Wolf,Brazil,03-06-2024,Notebook,Stationery,4,147.54,590.16,PayPal
+10777,Jeffrey Boyd,India,09-07-2024,Smartphone,Electronics,3,405.46,1216.38,Credit Card
+10778,Alyssa Pope,Japan,04-12-2024,Sunglasses,Accessories,3,428.83,1286.49,UPI
+10779,Curtis Riley,UK,25-07-2024,Watch,Accessories,3,44.12,132.36,Credit Card
+10780,Steven Bullock,Japan,19-09-2024,Bluetooth Headphones,Electronics,1,466.65,466.65,UPI
+10781,Kenneth Lopez,South Korea,28-04-2025,Wireless Mouse,Electronics,2,203.65,407.3,Credit Card
+10782,Tyler Ayala,Canada,20-08-2024,Smartphone,Electronics,4,11.22,44.88,PayPal
+10783,Linda Foster,UK,15-02-2025,Backpack,Accessories,2,108.51,217.02,UPI
+10784,Eric Bryan,Brazil,26-04-2025,Leather Wallet,Accessories,4,285.96,1143.84,PayPal
+10785,Peter Molina,India,25-12-2024,Smartphone,Electronics,1,133.92,133.92,Debit Card
+10786,Raymond Carroll,Russia,08-10-2024,Jacket,Apparel,2,292.44,584.88,PayPal
+10787,Tracy Stafford,Brazil,12-06-2024,Socks,Apparel,4,298,1192,UPI
+10788,Deborah George,India,02-12-2024,Leather Wallet,Accessories,2,338.88,677.76,PayPal
+10789,Kayla Martin,USA,18-05-2025,Leather Wallet,Accessories,5,226.65,1133.25,Debit Card
+10790,Diana Simpson,South Korea,09-09-2024,Marker Pack,Stationery,4,45.41,181.64,UPI
+10791,Dr. Danielle Jones,India,16-05-2025,Marker Pack,Stationery,4,75.28,301.12,Debit Card
+10792,Emily Davis,India,08-06-2024,Pen Set,Stationery,2,243.4,486.8,UPI
+10793,Tamara Kelley,South Korea,22-10-2024,Wireless Mouse,Electronics,2,256.87,513.74,Debit Card
+10794,Jennifer Wallace,India,13-12-2024,Sunglasses,Accessories,5,298.6,1493,Debit Card
+10795,Tracy Hammond,Australia,25-02-2025,Marker Pack,Stationery,2,432.03,864.06,PayPal
+10796,Whitney Pitts,Canada,19-02-2025,Desk Organizer,Stationery,2,454.46,908.92,Debit Card
+10797,Heather Phillips,Japan,27-12-2024,Tablet,Electronics,2,14.17,28.34,Credit Card
+10798,Kathryn Conway,UK,25-03-2025,Blender,Kitchen,4,263.87,1055.48,UPI
+10799,Timothy Hutchinson,Australia,17-07-2024,Watch,Accessories,1,164,164,UPI
+10800,Eric Mcpherson,Canada,11-12-2024,Cotton T-Shirt,Apparel,3,266.9,800.7,UPI
+10801,Debra Clark,Russia,19-08-2024,Wireless Mouse,Electronics,1,333.76,333.76,PayPal
+10802,Stacy Rodriguez,Russia,20-05-2025,Marker Pack,Stationery,2,146.9,293.8,Credit Card
+10803,Susan Jackson,UK,31-03-2025,Bluetooth Headphones,Electronics,1,57.29,57.29,Debit Card
+10804,Bonnie Faulkner,Australia,06-02-2025,Leather Wallet,Accessories,2,262.3,524.6,Debit Card
+10805,Luis Reed,South Korea,05-12-2024,Leather Wallet,Accessories,1,124.46,124.46,UPI
+10806,Ricardo Cox,Australia,28-05-2025,Desk Organizer,Stationery,2,433.94,867.88,Debit Card
+10807,Mark Barry,Russia,24-04-2025,Socks,Apparel,4,233.26,933.04,Debit Card
+10808,Jacqueline Medina,USA,15-05-2025,Tablet,Electronics,1,183.89,183.89,PayPal
+10809,Donald Gray,India,16-01-2025,Notebook,Stationery,1,35.99,35.99,Debit Card
+10810,Victoria Hodge,Canada,20-11-2024,Smartphone,Electronics,4,94.14,376.56,UPI
+10811,Briana Moore,Russia,20-05-2025,Knife Set,Kitchen,2,448.22,896.44,UPI
+10812,Shawn Jones,Brazil,12-10-2024,Running Shoes,Apparel,5,111.97,559.85,PayPal
+10813,William Bailey,Japan,07-08-2024,Socks,Apparel,5,288.96,1444.8,Credit Card
+10814,Bradley Foster,Brazil,12-01-2025,Sunglasses,Accessories,2,120.18,240.36,PayPal
+10815,Alyssa Russell,Canada,25-07-2024,Socks,Apparel,5,273.57,1367.85,PayPal
+10816,Mark Mitchell,Canada,16-05-2025,Wireless Mouse,Electronics,2,255.14,510.28,UPI
+10817,Brittany Ortiz,India,19-09-2024,Coffee Mug,Kitchen,4,343.29,1373.16,PayPal
+10818,Elizabeth Barrera,UK,26-03-2025,Coffee Mug,Kitchen,1,317.18,317.18,PayPal
+10819,Darrell Patton,Australia,14-01-2025,Smartphone,Electronics,1,182.81,182.81,UPI
+10820,Elizabeth Davenport,South Korea,30-09-2024,Watch,Accessories,1,113.96,113.96,Debit Card
+10821,Eric Sutton,Russia,19-04-2025,Marker Pack,Stationery,5,283.89,1419.45,Credit Card
+10822,Amanda Clark,Canada,27-12-2024,Jacket,Apparel,2,245.69,491.38,Credit Card
+10823,Peter Alexander,Japan,25-11-2024,Cookware Set,Kitchen,3,388.34,1165.02,UPI
+10824,Steven Diaz,Germany,15-08-2024,Pen Set,Stationery,5,121.39,606.95,UPI
+10825,Reginald Stewart,Brazil,16-11-2024,Knife Set,Kitchen,3,45.79,137.37,Credit Card
+10826,Heather Austin,India,11-10-2024,Leather Wallet,Accessories,1,325.19,325.19,PayPal
+10827,Garrett Dean,Japan,05-09-2024,Backpack,Accessories,4,449.78,1799.12,PayPal
+10828,Stephanie Foster,Russia,25-02-2025,Coffee Mug,Kitchen,5,274.84,1374.2,PayPal
+10829,Jeffrey Russell,USA,07-03-2025,Tablet,Electronics,5,239.01,1195.05,UPI
+10830,Ronald Singh,Germany,22-12-2024,Sunglasses,Accessories,4,407.6,1630.4,UPI
+10831,Michael Wilkins,Brazil,27-06-2024,Coffee Mug,Kitchen,2,202.62,405.24,PayPal
+10832,Jamie Underwood,Australia,19-09-2024,Notebook,Stationery,4,162.86,651.44,Credit Card
+10833,Kevin Porter,Brazil,28-02-2025,Bluetooth Headphones,Electronics,5,89.55,447.75,PayPal
+10834,Phillip Harris,UK,19-03-2025,Blender,Kitchen,3,61.04,183.12,UPI
+10835,Charles Rhodes,Canada,13-09-2024,Leather Wallet,Accessories,1,99.17,99.17,UPI
+10836,Steve Jones,UK,16-07-2024,Blender,Kitchen,3,125.94,377.82,PayPal
+10837,Kelli Alexander,Russia,04-02-2025,Running Shoes,Apparel,3,221.89,665.67,PayPal
+10838,Kevin Mcintyre,Canada,08-12-2024,Smartphone,Electronics,5,158.4,792,Credit Card
+10839,Tiffany Faulkner,Canada,14-08-2024,Marker Pack,Stationery,2,129.53,259.06,Debit Card
+10840,Patricia Campbell,Canada,01-12-2024,Jacket,Apparel,5,482.11,2410.55,Credit Card
+10841,Carolyn Webb,Australia,02-12-2024,Backpack,Accessories,3,491.32,1473.96,Debit Card
+10842,Travis Hart,Germany,01-11-2024,Smartphone,Electronics,3,435.94,1307.82,Debit Card
+10843,Lawrence Perez,Japan,04-04-2025,Socks,Apparel,3,283.47,850.41,Credit Card
+10844,Jeffrey Stanley,Canada,16-07-2024,Desk Organizer,Stationery,5,263.94,1319.7,Debit Card
+10845,Dennis Rodriguez,Germany,07-05-2025,Tablet,Electronics,5,110.1,550.5,PayPal
+10846,Christopher Simmons,Canada,29-09-2024,Watch,Accessories,5,261.87,1309.35,Debit Card
+10847,Angela Lopez,India,16-09-2024,Cookware Set,Kitchen,1,172.07,172.07,Credit Card
+10848,Gregory Brooks,Brazil,25-12-2024,Tablet,Electronics,3,161.5,484.5,Debit Card
+10849,Anthony Cooper,Japan,08-10-2024,Jacket,Apparel,1,216.26,216.26,Credit Card
+10850,Todd Smith,Brazil,09-09-2024,Cotton T-Shirt,Apparel,5,48.23,241.15,Debit Card
+10851,Donald Walsh,USA,16-10-2024,Notebook,Stationery,3,58.74,176.22,Credit Card
+10852,Jonathan Caldwell,USA,11-08-2024,Watch,Accessories,1,313.06,313.06,PayPal
+10853,Edgar Rodriguez,USA,06-01-2025,Cotton T-Shirt,Apparel,3,227.76,683.28,UPI
+10854,Crystal Collins,UK,14-11-2024,Blender,Kitchen,3,496.53,1489.59,Credit Card
+10855,Matthew Baker,Brazil,11-07-2024,Leather Wallet,Accessories,1,31.18,31.18,PayPal
+10856,Richard Bautista,USA,06-03-2025,Socks,Apparel,3,207.19,621.57,UPI
+10857,Barbara Moran,UK,29-06-2024,Sunglasses,Accessories,4,437.44,1749.76,UPI
+10858,Jack Thomas,South Korea,08-07-2024,Sunglasses,Accessories,4,444.75,1779,Debit Card
+10859,Elizabeth Steele,India,28-06-2024,Cookware Set,Kitchen,3,52.94,158.82,UPI
+10860,Joshua Christensen,Russia,31-12-2024,Leather Wallet,Accessories,5,311.61,1558.05,Credit Card
+10861,James Gentry,UK,31-07-2024,Watch,Accessories,3,391.76,1175.28,PayPal
+10862,Ethan Keith,Australia,04-12-2024,Leather Wallet,Accessories,5,291.23,1456.15,PayPal
+10863,Kevin House,Brazil,30-04-2025,Wireless Mouse,Electronics,4,456.71,1826.84,PayPal
+10864,Amber Simmons,Canada,24-01-2025,Watch,Accessories,2,316.2,632.4,PayPal
+10865,Mark Cruz,Germany,31-12-2024,Notebook,Stationery,5,320.81,1604.05,UPI
+10866,Kristopher Brown,Brazil,20-02-2025,Jacket,Apparel,4,377.18,1508.72,UPI
+10867,Lawrence James,Australia,14-12-2024,Notebook,Stationery,5,355.72,1778.6,PayPal
+10868,Dorothy Hayden,Canada,07-04-2025,Socks,Apparel,5,441.91,2209.55,UPI
+10869,Mrs. Mary Garrison,UK,10-06-2024,Blender,Kitchen,3,300.76,902.28,Debit Card
+10870,Brittany Schneider,Germany,30-06-2024,Socks,Apparel,2,430.07,860.14,Credit Card
+10871,Allison Jones,Australia,03-02-2025,Leather Wallet,Accessories,2,267.27,534.54,Debit Card
+10872,Pamela Payne,Russia,03-09-2024,Wireless Mouse,Electronics,4,273.75,1095,UPI
+10873,Brett Lee,UK,21-05-2025,Bluetooth Headphones,Electronics,3,488.11,1464.33,PayPal
+10874,Philip Flynn,Russia,06-12-2024,Backpack,Accessories,2,306.71,613.42,PayPal
+10875,Darin Lindsey,USA,28-02-2025,Wireless Mouse,Electronics,2,141.88,283.76,Credit Card
+10876,Jodi Brown,Germany,29-12-2024,Pen Set,Stationery,2,129.69,259.38,Debit Card
+10877,Tabitha Gutierrez,South Korea,02-10-2024,Cotton T-Shirt,Apparel,1,225.46,225.46,Debit Card
+10878,Lindsay Gibson,India,22-10-2024,Watch,Accessories,5,331.46,1657.3,Credit Card
+10879,Lisa Gordon,Japan,10-09-2024,Running Shoes,Apparel,1,267.03,267.03,Debit Card
+10880,Richard Morales,Brazil,11-02-2025,Marker Pack,Stationery,5,398.61,1993.05,UPI
+10881,Randy Howe,Russia,21-03-2025,Cookware Set,Kitchen,4,101.54,406.16,UPI
+10882,Cheryl Hall,Brazil,02-06-2025,Smartphone,Electronics,1,161.5,161.5,UPI
+10883,Kristen Wilson,India,10-04-2025,Cotton T-Shirt,Apparel,4,197.9,791.6,UPI
+10884,Donald Ellis,Australia,28-03-2025,Watch,Accessories,1,154.39,154.39,UPI
+10885,James Green,UK,02-02-2025,Backpack,Accessories,2,31.73,63.46,Debit Card
+10886,Chelsea Simmons,India,25-11-2024,Backpack,Accessories,3,256.92,770.76,Credit Card
+10887,Samantha Brown,Russia,04-08-2024,Coffee Mug,Kitchen,4,18.87,75.48,PayPal
+10888,Briana Williams,USA,31-05-2025,Cotton T-Shirt,Apparel,3,80.35,241.05,Debit Card
+10889,Ashley Whitaker,Germany,23-10-2024,Leather Wallet,Accessories,1,330.16,330.16,PayPal
+10890,Katherine Moore,USA,26-11-2024,Wireless Mouse,Electronics,1,359.87,359.87,UPI
+10891,Nicholas Pierce,USA,11-01-2025,Running Shoes,Apparel,2,347.93,695.86,PayPal
+10892,Chelsea Gill,Australia,30-04-2025,Knife Set,Kitchen,4,355.14,1420.56,UPI
+10893,Barbara Black,USA,30-06-2024,Pen Set,Stationery,5,323.86,1619.3,PayPal
+10894,Kelsey Mcbride,Germany,07-11-2024,Leather Wallet,Accessories,1,134.5,134.5,Debit Card
+10895,William Young,South Korea,28-03-2025,Backpack,Accessories,2,214.93,429.86,PayPal
+10896,Alejandra Hammond,Canada,20-08-2024,Sunglasses,Accessories,3,414.15,1242.45,PayPal
+10897,Kenneth Schmitt MD,Canada,02-09-2024,Bluetooth Headphones,Electronics,2,497.72,995.44,PayPal
+10898,Timothy Jordan,UK,24-05-2025,Running Shoes,Apparel,4,381.06,1524.24,UPI
+10899,Brandon Hill,USA,15-08-2024,Bluetooth Headphones,Electronics,3,434.63,1303.89,PayPal
+10900,Nathan Garza,Germany,08-03-2025,Desk Organizer,Stationery,5,212.57,1062.85,Debit Card
+10901,William Vazquez,South Korea,07-02-2025,Desk Organizer,Stationery,1,226.14,226.14,Debit Card
+10902,Rodney Peterson,Canada,19-06-2024,Running Shoes,Apparel,1,456.86,456.86,PayPal
+10903,Paula Gross,Australia,05-09-2024,Marker Pack,Stationery,4,47.79,191.16,Debit Card
+10904,Rebecca Duarte,Brazil,07-08-2024,Knife Set,Kitchen,3,416.07,1248.21,UPI
+10905,Paul Sparks,UK,06-06-2024,Notebook,Stationery,5,134.89,674.45,Debit Card
+10906,Charles Barber,Germany,23-07-2024,Cotton T-Shirt,Apparel,3,218.19,654.57,UPI
+10907,William Newman,Australia,02-03-2025,Running Shoes,Apparel,2,293.74,587.48,Debit Card
+10908,Tanya Johnson,India,28-11-2024,Bluetooth Headphones,Electronics,4,170.45,681.8,UPI
+10909,Samuel Jones,Brazil,30-03-2025,Cookware Set,Kitchen,4,136.18,544.72,Debit Card
+10910,Amanda Dunn,Germany,11-08-2024,Pen Set,Stationery,3,456.85,1370.55,UPI
+10911,Jessica Escobar,India,05-08-2024,Leather Wallet,Accessories,4,192.28,769.12,PayPal
+10912,Adam Johnson,USA,11-10-2024,Tablet,Electronics,3,215.48,646.44,UPI
+10913,Mr. Christian Cooper,Canada,02-08-2024,Notebook,Stationery,2,307.99,615.98,PayPal
+10914,Thomas Hobbs,USA,28-07-2024,Coffee Mug,Kitchen,2,484.58,969.16,Debit Card
+10915,Patricia Owens,Canada,03-06-2024,Notebook,Stationery,1,294.06,294.06,Debit Card
+10916,Sandra Weaver,Canada,28-09-2024,Pen Set,Stationery,4,204.82,819.28,Debit Card
+10917,Sandra Fuller,USA,07-01-2025,Notebook,Stationery,2,491.38,982.76,PayPal
+10918,Brandon Benjamin,USA,08-04-2025,Smartphone,Electronics,5,78.5,392.5,Credit Card
+10919,Debra Burton,Australia,13-01-2025,Marker Pack,Stationery,3,487.3,1461.9,UPI
+10920,Mandy Dominguez,Brazil,16-11-2024,Cotton T-Shirt,Apparel,4,482.99,1931.96,Debit Card
+10921,James Wolf,USA,12-09-2024,Cotton T-Shirt,Apparel,4,42.85,171.4,Debit Card
+10922,Amanda Brown,Germany,10-12-2024,Sunglasses,Accessories,4,131.32,525.28,PayPal
+10923,Roberto Shepherd,UK,01-09-2024,Desk Organizer,Stationery,4,83.39,333.56,UPI
+10924,Kayla Smith,Germany,23-04-2025,Wireless Mouse,Electronics,4,459.42,1837.68,Debit Card
+10925,Julie Ryan,Canada,07-02-2025,Marker Pack,Stationery,3,255.67,767.01,Credit Card
+10926,Lisa Henry,Brazil,24-10-2024,Pen Set,Stationery,1,127.24,127.24,Credit Card
+10927,Charlene Morales,Australia,25-01-2025,Socks,Apparel,1,383.72,383.72,Credit Card
+10928,David Davis,Australia,15-12-2024,Cookware Set,Kitchen,1,467.6,467.6,Credit Card
+10929,Nicholas Norman,Australia,26-09-2024,Leather Wallet,Accessories,1,141.31,141.31,UPI
+10930,Laura Snyder,Russia,21-08-2024,Blender,Kitchen,5,277.52,1387.6,PayPal
+10931,Kristine Houston,UK,30-06-2024,Wireless Mouse,Electronics,1,282.04,282.04,UPI
+10932,Tamara Montoya,Brazil,23-03-2025,Leather Wallet,Accessories,3,402.35,1207.05,Debit Card
+10933,Wendy Zhang,Brazil,11-01-2025,Knife Set,Kitchen,1,266.58,266.58,PayPal
+10934,Joshua Cunningham,USA,19-11-2024,Leather Wallet,Accessories,2,442.82,885.64,UPI
+10935,Jordan Hamilton,India,12-05-2025,Coffee Mug,Kitchen,3,325.62,976.86,PayPal
+10936,Victoria Garcia,Canada,02-11-2024,Running Shoes,Apparel,4,29.48,117.92,Debit Card
+10937,Patricia Schmidt,UK,14-06-2024,Tablet,Electronics,2,324.27,648.54,Credit Card
+10938,Matthew Davidson,USA,14-02-2025,Bluetooth Headphones,Electronics,1,313.91,313.91,Credit Card
+10939,Jennifer Rodriguez,Japan,15-05-2025,Running Shoes,Apparel,4,143.6,574.4,Debit Card
+10940,Michael Palmer,Japan,07-06-2024,Smartphone,Electronics,1,425.45,425.45,Credit Card
+10941,Anthony Poole,Canada,02-08-2024,Jacket,Apparel,3,219.96,659.88,PayPal
+10942,Dr. Christopher Shaw DDS,USA,25-12-2024,Wireless Mouse,Electronics,4,457.97,1831.88,Debit Card
+10943,Joseph Welch,India,03-11-2024,Running Shoes,Apparel,5,244.7,1223.5,UPI
+10944,Rebekah Adams,USA,16-11-2024,Tablet,Electronics,2,450.47,900.94,UPI
+10945,Clayton Morris,USA,28-05-2025,Running Shoes,Apparel,3,495.95,1487.85,UPI
+10946,Kara Johnson,India,13-10-2024,Cotton T-Shirt,Apparel,1,462.09,462.09,UPI
+10947,Marc Callahan,USA,08-05-2025,Sunglasses,Accessories,5,55.48,277.4,Credit Card
+10948,Steven Gordon,Japan,31-05-2025,Notebook,Stationery,2,311.92,623.84,Credit Card
+10949,Robert Hodges,Brazil,01-07-2024,Tablet,Electronics,1,303.58,303.58,PayPal
+10950,Amy Lara,Brazil,02-07-2024,Blender,Kitchen,3,381.36,1144.08,UPI
+10951,Michelle Martin,Russia,12-08-2024,Sunglasses,Accessories,1,56.89,56.89,UPI
+10952,Whitney Perry,Brazil,24-07-2024,Knife Set,Kitchen,2,481.17,962.34,PayPal
+10953,Linda Johnson,Australia,30-07-2024,Cotton T-Shirt,Apparel,1,356.78,356.78,Debit Card
+10954,Elizabeth Wright,Brazil,20-09-2024,Pen Set,Stationery,4,122.41,489.64,UPI
+10955,Tracy Miller,Canada,04-11-2024,Cotton T-Shirt,Apparel,3,40.53,121.59,Credit Card
+10956,Heather Mendoza,USA,13-02-2025,Leather Wallet,Accessories,4,234.05,936.2,Credit Card
+10957,Michelle Dalton,Russia,27-07-2024,Sunglasses,Accessories,5,494.04,2470.2,PayPal
+10958,Michael Brown,USA,18-05-2025,Marker Pack,Stationery,4,262.76,1051.04,Debit Card
+10959,Crystal Freeman,Germany,18-01-2025,Coffee Mug,Kitchen,3,393.48,1180.44,PayPal
+10960,Sheila Reese,USA,24-11-2024,Knife Set,Kitchen,1,368.7,368.7,Credit Card
+10961,Shelby Martinez,USA,03-03-2025,Bluetooth Headphones,Electronics,1,364.62,364.62,PayPal
+10962,Lori Davis,USA,18-11-2024,Watch,Accessories,3,332.3,996.9,Debit Card
+10963,James Espinoza,South Korea,10-02-2025,Socks,Apparel,3,103.24,309.72,Debit Card
+10964,Breanna Pineda,Japan,17-02-2025,Watch,Accessories,1,112.77,112.77,UPI
+10965,Joseph Smith,USA,17-04-2025,Marker Pack,Stationery,3,456,1368,Credit Card
+10966,Laurie Cervantes,Brazil,19-06-2024,Running Shoes,Apparel,2,37.55,75.1,PayPal
+10967,Dustin Moore,USA,15-03-2025,Marker Pack,Stationery,5,219.77,1098.85,UPI
+10968,David Patel,Australia,26-04-2025,Cotton T-Shirt,Apparel,3,366.08,1098.24,Credit Card
+10969,Laurie Adams,Brazil,24-06-2024,Running Shoes,Apparel,3,262.25,786.75,Credit Card
+10970,Alvin Sullivan,UK,18-05-2025,Leather Wallet,Accessories,2,46.99,93.98,Credit Card
+10971,Dalton Murphy,Brazil,08-04-2025,Sunglasses,Accessories,4,474.14,1896.56,Debit Card
+10972,Michael Bailey,Brazil,01-05-2025,Bluetooth Headphones,Electronics,1,181.77,181.77,Debit Card
+10973,Tiffany Lyons,Canada,22-03-2025,Notebook,Stationery,3,10.48,31.44,PayPal
+10974,Heather Murphy,Russia,26-12-2024,Cookware Set,Kitchen,1,361.23,361.23,Credit Card
+10975,Brittany Johnston,Russia,11-06-2024,Running Shoes,Apparel,4,324.06,1296.24,UPI
+10976,Jennifer Hunt,Germany,13-12-2024,Coffee Mug,Kitchen,4,243.37,973.48,Debit Card
+10977,Vincent Vazquez,Japan,25-02-2025,Cotton T-Shirt,Apparel,1,28.52,28.52,PayPal
+10978,Catherine Ruiz,Brazil,03-02-2025,Running Shoes,Apparel,4,219.75,879,Credit Card
+10979,James Martin,South Korea,11-06-2024,Knife Set,Kitchen,1,33.07,33.07,Debit Card
+10980,Sherri Bray,Germany,21-10-2024,Knife Set,Kitchen,2,178.32,356.64,PayPal
+10981,Lisa Edwards,Brazil,30-12-2024,Desk Organizer,Stationery,2,468.87,937.74,PayPal
+10982,Patrick Brown,Brazil,01-03-2025,Bluetooth Headphones,Electronics,1,8.99,8.99,UPI
+10983,Cindy Garcia,Brazil,24-12-2024,Wireless Mouse,Electronics,1,437.33,437.33,UPI
+10984,Kevin Thomas,USA,07-09-2024,Wireless Mouse,Electronics,2,485.7,971.4,PayPal
+10985,Regina Jones,South Korea,12-02-2025,Watch,Accessories,5,239.01,1195.05,Credit Card
+10986,Cathy Acosta,Russia,01-01-2025,Notebook,Stationery,5,384.28,1921.4,PayPal
+10987,Anthony Carter,Australia,01-06-2025,Marker Pack,Stationery,5,117.69,588.45,Debit Card
+10988,Mary Farmer,UK,24-11-2024,Knife Set,Kitchen,1,70.86,70.86,Debit Card
+10989,Carla Vega,South Korea,14-08-2024,Knife Set,Kitchen,4,391.65,1566.6,Debit Card
+10990,Brandi Richardson,India,20-08-2024,Desk Organizer,Stationery,5,193.85,969.25,UPI
+10991,Garrett Ramirez,Japan,10-07-2024,Notebook,Stationery,5,273.92,1369.6,UPI
+10992,Chloe Zavala,USA,12-03-2025,Jacket,Apparel,2,477.89,955.78,Credit Card
+10993,Nicole Cuevas,South Korea,26-11-2024,Tablet,Electronics,3,238.48,715.44,Debit Card
+10994,Gregory Miller,India,29-09-2024,Bluetooth Headphones,Electronics,1,307,307,UPI
+10995,William Brown,Australia,10-02-2025,Blender,Kitchen,4,47.21,188.84,Debit Card
+10996,Richard Solis,India,16-03-2025,Bluetooth Headphones,Electronics,5,256.87,1284.35,PayPal
+10997,Heather White,Brazil,18-12-2024,Coffee Mug,Kitchen,3,64.94,194.82,Debit Card
+10998,Cynthia Melendez,India,18-11-2024,Sunglasses,Accessories,1,316.14,316.14,PayPal
+10999,John Turner,USA,26-05-2025,Wireless Mouse,Electronics,3,494.18,1482.54,PayPal
